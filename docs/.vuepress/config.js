@@ -31,10 +31,10 @@ module.exports = {
       // ]
     },
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'vuejs/vuepress',
+    // repo: 'vuejs/vuepress',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
-    repoLabel: 'Contribute!',
+    // repoLabel: 'Contribute!',
 
     // Optional options for generating "Edit this page" link
 
