@@ -1,0 +1,23 @@
+{
+  "name": "pacannabis.guide",
+  "version": "1.0.0",
+  "description": "We're developing tools that users, patients, and doctors can use. These tools are being made open source so that other developers may build upon them.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfLiberty/pacannabis.guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OfLiberty/pacannabis.guide/issues"
+  },
+  "homepage": "https://github.com/OfLiberty/pacannabis.guide#readme"
+}
