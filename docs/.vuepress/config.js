@@ -1,7 +1,13 @@
 module.exports = {
   title: 'PA Cannabis Guide',
   description: 'Guiding PA patients through cannabis products, services, and news',
-  plugins: ['@vuepress/pwa'],
+  plugins: {
+    '@vuepress/pwa': {
+       serviceWorker: true,
+      //  popupComponent: 'MySWUpdatePopup',
+       updatePopup: true
+     }
+  },
   themeConfig: {
     search: false,
     searchMaxSuggestions: 10,
@@ -37,14 +43,6 @@ module.exports = {
     docsBranch: 'master',
     editLinks: true,
     editLinkText: 'Help us improve this page!',
-    serviceWorker: {
-      updatePopup: true // Boolean | Object, default to undefined.
-      // If set to true, the default text config will be: 
-      // updatePopup: { 
-      //    message: "New content is available.", 
-      //    buttonText: "Refresh" 
-      // }
-    }
   }
 }
 
