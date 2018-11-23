@@ -2,8 +2,9 @@
   "name": "PA Cannabis Guide",
   "theme_color": "#1a7b00",
   "background_color": "#1A7B00",
-  "display": "standalone",
-  "start_url": "/index.html",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "./images/icons/icon-72x72.png",
