@@ -1,5 +1,6 @@
 {
   "name": "PA Cannabis Guide",
+  "short_name": "PA Cannabis Guide",
   "theme_color": "#1a7b00",
   "background_color": "#1A7B00",
   "display": "standalone",

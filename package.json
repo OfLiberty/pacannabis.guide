@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/OfLiberty/pacannabis.guide/issues"
   },
-  "homepage": "https://github.com/OfLiberty/pacannabis.guide#readme"
+  "homepage": "https://github.com/OfLiberty/pacannabis.guide#readme",
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.0.0-alpha.0",
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.0"
+  }
 }

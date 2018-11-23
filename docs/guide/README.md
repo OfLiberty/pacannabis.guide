@@ -26,4 +26,8 @@ The U.S.'s federal prohabition of cannabis has prevented much research into cann
 
 ### Liberty
 
-The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it.
+The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it through education.
+
+## Contributing to the Guide
+
+In order to contribute content you will need a [Github account](https://github.com/). At the bottom of each page there is a link "Help us improve this page!" that will take you to a page that you can customize and submit for review and integration into the project.
