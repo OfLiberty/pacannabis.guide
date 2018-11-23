@@ -5,7 +5,7 @@ actionText: Get Started →
 actionLink: /guide/
 features:
 - title: Patient Curated 
-  details: Content aggregated, reviewed, and published by legal Pennsylvanian cannabis patients.
+  details: Content aggregated, reviewed, and published by Pennsylvanian cannabis patients.
 - title: Offline Access
   details: Download our full guide directly to any device, iOS and Android. Keep us with you at all times!
 - title: Open Source
