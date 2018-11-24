@@ -1,10 +1,10 @@
 module.exports = {
   title: 'PA Cannabis Guide',
-  description: 'Guiding PA patients through cannabis products, services, and news',
+  description: 'Handbook guiding PA patients through cannabis products, services, and news',
   head: [
     // ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'google', href: '/google092f2d756e081b9b.html' }],
+    // ['link', { rel: 'google', href: '/google092f2d756e081b9b.html' }],
     // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     // ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
@@ -13,6 +13,18 @@ module.exports = {
     // ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     // ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
+  plugins: {
+    plugins: ['@vuepress/blog'] ,
+    '@vuepress/pwa': {
+       serviceWorker: true,
+      //  popupComponent: 'MySWUpdatePopup',
+       updatePopup: true
+    },
+    '@vuepress/google-analytics': {
+      ga: 'UA-129734946-2'
+    }
+  },
+  ga: 'UA-129734946-2',
   themeConfig: {
     search: false,
     searchMaxSuggestions: 10,
@@ -48,17 +60,6 @@ module.exports = {
         //    message: "New content is available.", 
         //    buttonText: "Refresh" 
         // }
-      }
-    },
-    plugins: {
-      plugins: ['@vuepress/blog'] ,
-      '@vuepress/pwa': {
-         serviceWorker: true,
-        //  popupComponent: 'MySWUpdatePopup',
-         updatePopup: true
-      },
-      '@vuepress/google-analytics': {
-        ga: 'UA-129734946-2'
       }
     },
     docsRepo: 'OfLiberty/pacannabis.guide',
