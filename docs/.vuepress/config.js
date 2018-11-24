@@ -2,16 +2,17 @@ module.exports = {
   title: 'PA Cannabis Guide',
   description: 'Handbook guiding PA patients through cannabis products, services, and news',
   head: [
-    // ['link', { rel: 'icon', href: `/logo.png` }],
+    ['link', { rel: 'shortcut icon', href: `/favicons/favicon.ico` }],
+    ['link', { rel: 'icon', type:"image/png", sizes:"16x16", href: `/favicons/favicon-16x16.png` }],
+    ['link', { rel: 'icon', type:"image/png", sizes:"32x32", href: `/favicons/favicon-32x32.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    // ['link', { rel: 'google', href: '/google092f2d756e081b9b.html' }],
-    // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    // ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    // ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
-    // ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
-    // ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-    // ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: `/favicons/apple-touch-icon.png` }],
+    ['link', { rel: 'mask-icon', href: '/favicons/safari-pinned-tab.svg', color: '#1a7b00' }],
+    ['meta', { name: 'msapplication-config', content: '/favicons/browserconfig.xml' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#1a7b00' }]
   ],
   plugins: {
     plugins: ['@vuepress/blog'] ,
