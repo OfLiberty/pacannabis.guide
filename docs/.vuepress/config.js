@@ -23,7 +23,6 @@ module.exports = {
     '@vuepress/google-analytics': {
       ga: 'UA-129734946-2'
     },
-    '@vuepress/notification': true,
   },
   ga: 'UA-129734946-2',
   themeConfig: {
@@ -55,12 +54,11 @@ module.exports = {
       //   'about'    /* /about.html */
       // ]
       serviceWorker: {
-        updatePopup: true // Boolean | Object, default to undefined.
-        // If set to true, the default text config will be: 
-        // updatePopup: { 
-        //    message: "New content is available.", 
-        //    buttonText: "Refresh" 
-        // }
+        updatePopup: true,
+        updatePopup: { 
+           message: "New content is available.", 
+           buttonText: "Refresh" 
+        }
       }
     },
     docsRepo: 'OfLiberty/pacannabis.guide',

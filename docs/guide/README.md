@@ -28,6 +28,14 @@ The U.S.'s federal prohabition of cannabis has prevented much research into cann
 
 The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it through education.
 
-## Contributing to the Guide
+## How to Contribute
 
-In order to contribute content you will need a [Github account](https://github.com/). At the bottom of each page there is a link "Help us improve this page!" that will take you to a page that you can customize and submit for review and integration into the project.
+In order to contribute content you will need a [Github account](https://github.com/).
+
+Then browse while on the guide and click the "Help us improve this page!" link at the bottom of the page. You'll be brought to a page that is [markdown editable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Once finished, you may commit your changes as a new branch for review. 
+
+## Supporting the Guide
+
+Supporting [ofLiberty on Patreon](https://www.patreon.com/ofLiberty) is the most direct way of keeping this project afloat. 
