@@ -4,6 +4,7 @@ module.exports = {
   head: [
     // ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'google', href: '/google092f2d756e081b9b.html' }],
     // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     // ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
