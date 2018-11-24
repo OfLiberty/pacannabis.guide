@@ -17,13 +17,13 @@ module.exports = {
   plugins: {
     plugins: ['@vuepress/blog'] ,
     '@vuepress/pwa': {
-       serviceWorker: true,
-      //  popupComponent: 'MySWUpdatePopup',
-       updatePopup: true
+      serviceWorker: true,
+      updatePopup: true,
     },
     '@vuepress/google-analytics': {
       ga: 'UA-129734946-2'
-    }
+    },
+    '@vuepress/notification': true,
   },
   ga: 'UA-129734946-2',
   themeConfig: {
