@@ -1,21 +1,24 @@
 <template>
     <div>
         <div>
-            <label>County</label>
-            <select v-model="selectedCounty">
-                <option>Any</option>
-                <option v-for="county in countiesList" v-bind:value="county">{{ county }}</option>
-            </select>
-            <br />
-            <label>Specialty</label>
-            <select v-model="selectedSpecialty">
-                <option>Any</option>
-                <option v-for="specialty in specialtiesList" v-bind:value="specialty">{{ specialty }}</option>
-            </select>
-            <div v-if="anyAny">
+            <div class="filter clearfix">
+                <label for="county">County</label>
+                <select name="county"v-model="selectedCounty">
+                    <option>Any</option>
+                    <option v-for="county in countiesList" v-bind:value="county">{{ county }}</option>
+                </select>
+            </div>
+            <div class="filter clearfix">
+                <label>Specialty</label>
+                <select v-model="selectedSpecialty">
+                    <option>Any</option>
+                    <option v-for="specialty in specialtiesList" v-bind:value="specialty">{{ specialty }}</option>
+                </select>
+            </div>
+            <div v-if="anyAny" class="clearfix">
                 Please select an option to narrow your search.
             </div>
-            <div class="wrapper">
+            <div class="wrapper results clearfix">
 
                 <div v-for="doc in listPractitioners"  style="clear:both;margin:15px 5px 10px">
                     <div style="">
@@ -117,3 +120,47 @@ export default {
     }
 }
 </script>
+<style>
+    /* #county{ 
+        width: 100%;
+    } */
+    label{
+        float:left;
+        width: 30%;
+        text-align: right;
+        padding: 0px 1em;
+
+    }
+    select{
+        float:left;
+        width: 60%;
+        padding: 0px 1em;
+
+    }
+    .filter{
+        padding: 1em 0px;
+    }
+    .clearfix{
+        clear:both;
+    }
+
+    .results{
+        padding: 1em;
+    }
+
+    @media only screen and (min-width: 1px) and (max-width: 700px){
+        label{
+            float:left;
+            width: auto;
+            text-align: center;
+            padding: .3em 0px;
+
+        }
+        select{
+            float:left;
+            width: 100%;
+            padding: .3em 0px;
+
+        }
+    }
+</style>
