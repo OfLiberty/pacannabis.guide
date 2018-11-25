@@ -17,7 +17,7 @@
             <li><a href="/guide/dispensaries/maitri-medicinals.html">Maitri Medicinals</a></li>
             <li><a href="/guide/dispensaries/mission-pennsylvania-ii.html">Mission Pennsylvania II, LLC</a></li>
             <li><a href="/guide/dispensaries/natures-medicines.html">Nature's Medicines</a></li>
-            <li><a href="/guide/dispensaries/organic-remedies.html">Organic Remedies-Enola</a></li>
+            <li><a href="/guide/dispensaries/organic-remedies.html">Organic Remedies</a></li>
             <li><a href="/guide/dispensaries/restore-integrative-wellness-center.html">Restore Integrative Wellness Center, LLC</a></li>
             <li><a href="/guide/dispensaries/rise.html">RISE</a></li>
             <li><a href="/guide/dispensaries/solevo.html">Solevo</a></li>

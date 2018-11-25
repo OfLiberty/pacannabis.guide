@@ -6,7 +6,7 @@ pDrmalink: /find-dispensaries.html
 ---
 
 # Find a Dispensary
-ADl PA dispensaries are listed below.
+All PA dispensaries are listed below.
 <!-- Search for a medical marijuana dispensary in Pennsylvania using the filters below. -->
 
 <Dispensaries />
