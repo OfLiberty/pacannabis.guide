@@ -76,10 +76,6 @@ export default {
     .page{
         margin: auto 5.5em;
     }
-    .w-2{
-    }
-    .w-1{
-    }
     h1{ margin-top:0px;}
     .sidebar-2{
         width: 32%;

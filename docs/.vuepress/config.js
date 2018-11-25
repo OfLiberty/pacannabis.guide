@@ -48,6 +48,11 @@ module.exports = {
         'find-practitioners',
         'find-dispensaries',
       ],
+
+      '/blog/': [
+        '',    
+        '2018-11-25--download-the-guide-mobile',
+      ],
     },
     docsRepo: 'OfLiberty/pacannabis.guide',
     docsDir: 'docs',

@@ -1,7 +1,7 @@
 ---
 # layout: Practitioners
 title: Find a Dispensary
-pDrmalink: /find-dispensaries.html
+permalink: /tools/find-dispensaries.html
 # sidebar: auto
 ---
 

@@ -1,7 +1,7 @@
 ---
 # layout: Practitioners
 title: Find a Practitioner
-permalink: /find-practitioners.html
+permalink: /tools/find-practitioners.html
 # sidebar: auto
 ---
 

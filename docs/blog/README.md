@@ -1,8 +1,8 @@
 ---
-# layout: Test
-title: Blog
+title: Front Page
 permalink: /blog/
-# sidebar: auto
 ---
 
 # Blog
+
+News, events, and miscellaneous info relevant to this guide and the cannabis community.
