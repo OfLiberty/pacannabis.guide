@@ -1,6 +1,6 @@
 <template>
     <div>
-        <ul>
+        <ul class="list-unstyled">
             <li><a href="/guide/dispensaries/beyond-hello.html">Beyond Hello</a></li>
             <li><a href="/guide/dispensaries/columbia-care.html">Columbia Care PA, LLC</a></li>
             <li><a href="/guide/dispensaries/cresco-yeltrah.html">Cresco Yeltrah</a></li>
@@ -65,7 +65,6 @@ export default {
     .clearfix{
         clear:both;
     }
-
     .results{
         padding: 1em;
     }

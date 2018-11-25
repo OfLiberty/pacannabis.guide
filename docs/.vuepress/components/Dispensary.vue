@@ -133,9 +133,6 @@ export default {
         -moz-column-rule: 1px solid lightblue; 
         column-rule: 1px solid lightblue; */
     }
-    ul{
-        list-style: none;
-    }
     @media only screen and (min-width: 1px) and (max-width: 700px){
         .page{
             margin: auto 1em;

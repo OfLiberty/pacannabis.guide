@@ -33,7 +33,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     displayAllHeaders: true,
     nav: [
-      { text: 'Home', link: '/' },
+      // { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
       {
         text: 'Tools',
