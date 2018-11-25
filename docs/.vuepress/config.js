@@ -26,8 +26,9 @@ module.exports = {
   },
   ga: 'UA-129734946-2',
   themeConfig: {
-    search: false,
+    search: true,
     searchMaxSuggestions: 10,
+    displayAllHeaders: true,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
@@ -35,37 +36,31 @@ module.exports = {
       { text: 'Blog', link: '/blog/' },
     ],
     lastUpdated: 'Last Updated',
-    sidebar: {
+    sidebar: {  
       '/guide/': [
-        '',     /* /foo/ */
-        'getting-certified',  /* /foo/one.html */
-        'dispensories',
+        '',   
+        'getting-certified',
+        'dispensaries/',
       ],
 
       '/tools/': [
-        '',      /* /bar/ */
-        'find-practitioners', /* /bar/three.html */
+        '',    
+        'find-practitioners',
+        'find-dispensaries',
       ],
-
-      // fallback
-      // '/': [
-      //   '',        /* / */
-      //   'contact', /* /contact.html */
-      //   'about'    /* /about.html */
-      // ]
-      serviceWorker: {
-        updatePopup: true,
-        updatePopup: { 
-           message: "New content is available.", 
-           buttonText: "Refresh" 
-        }
-      }
     },
     docsRepo: 'OfLiberty/pacannabis.guide',
     docsDir: 'docs',
     docsBranch: 'master',
     editLinks: true,
     editLinkText: 'Help us improve this page!',
+    serviceWorker: {
+      updatePopup: true,
+      updatePopup: { 
+         message: "New content is available.", 
+         buttonText: "Refresh" 
+      }
+    }
   },
 }
 

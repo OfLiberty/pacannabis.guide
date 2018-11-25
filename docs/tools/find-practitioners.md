@@ -1,11 +1,12 @@
 ---
 # layout: Practitioners
-title: Practitioners
+title: Find a Practitioner
 permalink: /find-practitioners.html
 # sidebar: auto
 ---
 
-# Practitioners
+# Find a Practitioner
 
+Search for a medical marijuana in Pennsylvania using the filters below.
 
 <Practitioners />
