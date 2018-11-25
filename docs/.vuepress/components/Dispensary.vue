@@ -1,59 +1,85 @@
 <template>
     <div>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-        <div class="page">
-            <div class="body-content">
-                <div class="breadcrumb">
-                <a href="/">Home</a>
-                    <i class="fas fa-chevron-right"></i>
-                <a href="/guide/">Guide</a>
-                    <i class="fas fa-chevron-right"></i>
-                <a href="/guide/dispensaries/">Dispensaries</a>
-                    <i class="fas fa-chevron-right"></i>
-                </div>
-                <div>
-                    <h1>{{ $page.frontmatter.title }}</h1>
-                    <p>Website: <a v-bind:href="$page.frontmatter.website" target="_blank"><i class="fas fa-globe"></i> {{ $page.frontmatter.website }}</a></p>
-                </div>
-                <hr>
-                <p class="inner">
-                    <span class="prev">
-                    ←
-                    <a href="/guide/dispensaries/" class="prev router-link-active">
-                    Dispensaries
-                    </a></span> 
-                    </span>
-                </p>
-                <small class="text-columns">
 
-                    <Dispensaries />
-                </small>
-            </div>
-            <div class="sidebar-2">
-                <h3>Locations</h3>
-                <div v-for="location in $page.frontmatter.locations" >
-                    <hr>                    
-                    <h4>{{ location.city }}</h4>
-                    <p>
-                        <strong>Address</strong><br>
-                        {{ location.address }}<br>
-                        {{ location.city }}, {{ location.state }}
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb rounded-0">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/guide/">Guide</a></li>
+                <li class="breadcrumb-item"><a href="/guide/dispensaries/">Dispensaries</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ $page.title }}</li>
+            </ol>
+        </nav>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-8">
+                    
+                    <div>
+                        <h1>{{ $page.frontmatter.title }}</h1>
+                        <p>Website: <a v-bind:href="$page.frontmatter.website" target="_blank"><i class="fas fa-globe"></i> {{ $page.frontmatter.website }}</a></p>
+                    </div>
+                    <hr>
+                    
+
+                </div>
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-12">
+                                <h3>Locations</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12" v-for="location in $page.frontmatter.locations">
+                                
+                                <div class="pl-4">
+                                    <h4 class="text-right">{{ location.city }}</h4>
+                                    <div class="container-fluid pt-2 pb-3">
+                                        <div class="row row align-items-top">
+                                            <div class="col-10">
+                                                <p>
+                                                    {{ location.address }}<br>
+                                                    {{ location.city }}, {{ location.state }}
+                                                </p>
+                                            </div>
+                                            <div class="col-2 text-center">
+                                                <i class="fas fa-map-marked-alt fa-2x"></i>
+                                            </div>
+
+                                            <div class="col-10">
+                                                <p>{{ location.phone_number }}</p>
+                                            </div>
+                                            <div class="col-2 text-center">
+                                                <i class="fas fa-phone fa-2x"></i>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        
+                    
+                </div>
+                <div class="col-12">
+                    <hr>
+                    <p class="inner">
+                        <span class="prev">
+                        ←
+                        <a href="/guide/dispensaries/" class="prev router-link-active">
+                        Dispensaries
+                        </a></span> 
+                        </span>
                     </p>
-                    <p>
-                        <strong>Phone</strong><br>
-                        {{ location.phone_number }}</p>
+                    <small class="text-columns">
+
+                        <Dispensaries />
+                    </small>
                 </div>
-                
-                <hr>
-
-                
-
             </div>
-            <div class="clearfix"></div>
-            <!-- <div>
-                <a href="/guide/dispensaries/" class="back-link"><i class="fas fa-chevron-circle-left"></i> Dispensaries</a>
-            </div> -->
-            
         </div>
     </div>
 
@@ -61,10 +87,9 @@
 
 <script>
 export default {
-    name: 'dispensaries',
+    name: 'dispensary',
     data () {
         return {
-            // practitioners: practitioners,
         }
     },
     computed:{
@@ -85,16 +110,16 @@ export default {
         width: 65%;
         float: left;
     }
-    .breadcrumb{
+    .brdcrm{
         padding:1rem 0;
     }
     .back-link{
         font-size: 1.2em;
     }
-    .breadcrumb{
+    .brdcrm{
         font-size: .9em;
     }
-    .breadcrumb>i{
+    .brdcrm>i{
         margin:0 .25em;
     }
     .text-columns > div:nth-child(1) > ul:nth-child(1){

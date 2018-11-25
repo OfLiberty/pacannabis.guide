@@ -12,18 +12,21 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: `/favicons/apple-touch-icon.png` }],
     ['link', { rel: 'mask-icon', href: '/favicons/safari-pinned-tab.svg', color: '#1a7b00' }],
     ['meta', { name: 'msapplication-config', content: '/favicons/browserconfig.xml' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#1a7b00' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#1a7b00' }],
+    ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.5.0/css/all.css', integrity: 'sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU', crossorigin: 'anonymous' }],
+    ['link', { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',integrity:"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",  crossorigin: 'anonymous' }],
   ],
-  plugins: {
-    plugins: ['@vuepress/blog'] ,
-    '@vuepress/pwa': {
+  plugins: [
+    ['@vuepress/pwa', {
       serviceWorker: true,
-      updatePopup: true,
-    },
-    '@vuepress/google-analytics': {
+      updatePopup: true
+    }],
+    ['@vuepress/medium-zoom', true],
+    ['@vuepress/notification', true],
+    ['@vuepress/google-analytics', {
       ga: 'UA-129734946-2'
-    },
-  },
+    }],
+  ],
   ga: 'UA-129734946-2',
   themeConfig: {
     search: true,
@@ -32,7 +35,13 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Tools', link: '/tools/' },
+      {
+        text: 'Tools',
+        items: [
+          { text: 'Find a Practitioner', link: '/tools/find-practitioners' },
+          { text: 'Find a Dispensary', link: '/tools/find-dispensaries' }
+        ]
+      },
       { text: 'Blog', link: '/blog/' },
     ],
     lastUpdated: 'Last Updated',

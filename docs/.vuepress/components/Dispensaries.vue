@@ -24,20 +24,17 @@
             <li><a href="/guide/dispensaries/terravida-holistic-centers.html">TerraVida Holistic Centers</a></li>
             <li><a href="/guide/dispensaries/the-healing-center.html">The Healing Center, LLC</a></li>
         </ul>
-        <!-- <div v-for="path in $site.pages">
-            <p>{{ path.title }} -{{ path.path }}</p>
-        </div> -->
     </div>
 
 </template>
 
 <script>
-import dispensaries from '../data/pa-dispensaries.json'
+// import dispensaries from '../data/pa-dispensaries.json'
 export default {
     name: 'dispensaries',
     data () {
         return {
-            dispensaries: dispensaries,
+            // dispensaries: dispensaries,
         }
     },
     computed:{
