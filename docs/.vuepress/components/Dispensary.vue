@@ -101,7 +101,7 @@ export default {
     .breadcrumb>i{
         margin:0 .25em;
     }
-    .text-columns{
+    .text-columns > div:nth-child(1) > ul:nth-child(1){
         -webkit-column-count: 3; 
         -moz-column-count: 3; 
         column-count: 3;

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <ul class="text-columns">
+        <ul>
             <li><a href="/guide/dispensaries/beyond-hello.html">Beyond Hello</a></li>
             <li><a href="/guide/dispensaries/columbia-care.html">Columbia Care PA, LLC</a></li>
             <li><a href="/guide/dispensaries/cresco-yeltrah.html">Cresco Yeltrah</a></li>

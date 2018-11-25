@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{182:function(n,t,i){"use strict";i.r(t);var e=i(0),s=Object(e.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"content"})},[],!1,null,null,null);s.options.__file="maitri-medicinals--uniontown.md";t.default=s.exports}}]);
