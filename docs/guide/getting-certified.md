@@ -1,6 +1,7 @@
 ---
 title: Getting Certified
-permalink: /guide/getting-certified/
+permalink: /guide/getting-certified.html
+sidebarDepth: 0
 ---
 
 # Getting Certified
@@ -34,7 +35,7 @@ Damage to the nervous tissue of the central nervous system (brain-spinal cord) w
 
 ## Practioners 
 
-In addition to having a diagnosis of a [Qualifying Medical Conditions](/guide/getting-started.html#qualifying-medical-conditions) you will need to see a practitioner who is licensed to prescribe medical cannabis.
+In addition to having a diagnosis of a [Qualifying Medical Conditions](/guide/getting-certified.html#qualifying-medical-conditions) you will need to see a practitioner who is licensed to prescribe medical cannabis.
 
 You can [use our tool](/tools/find-practitioners.html) to find a practitioner or you can find the most up-to-date practioner list through your account at the [Department of Health's Pennsylvania Medical Marijuana Program website](https://padohmmp.custhelp.com/app/login).
 

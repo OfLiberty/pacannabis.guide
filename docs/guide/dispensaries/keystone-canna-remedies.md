@@ -1,7 +1,7 @@
 ---
 title: Keystone Canna Remedies
-permalink: /guide/dispensaries/keystone-canna-remedies
-layout: Dispensary
+permalink: /guide/dispensaries/keystone-canna-remedies/
+# layout: Dispensary
 website: https://www.keystonecannaremedies.com/
 locations:
 - date_opened: 2/16/18

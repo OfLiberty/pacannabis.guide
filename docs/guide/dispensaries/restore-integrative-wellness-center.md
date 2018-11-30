@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/restore-integrative-wellness-center
-layout: Dispensary
+permalink: /guide/dispensaries/restore-integrative-wellness-center/
+# layout: Dispensary
 title: Restore Integrative Wellness Center, LLC
 website: https://www.restoreiwc.com/
 locations:

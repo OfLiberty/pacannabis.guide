@@ -14,8 +14,51 @@ module.exports = {
     ['meta', { name: 'msapplication-config', content: '/favicons/browserconfig.xml' }],
     ['meta', { name: 'msapplication-TileColor', content: '#1a7b00' }],
     ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.5.0/css/all.css', integrity: 'sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU', crossorigin: 'anonymous' }],
-    ['link', { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',integrity:"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",  crossorigin: 'anonymous' }],
+    // ['link', { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',integrity:"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",  crossorigin: 'anonymous' }],
   ],
+  themeConfig: {
+    serviceWorker: {
+      updatePopup: true,
+    },
+    search: true,
+    searchMaxSuggestions: 10,
+    displayAllHeaders: true,
+    nav: [
+      { text: 'Guide', link: '/guide/' },
+      // {
+      //   text: 'Products',
+      //   items: [
+      //     { text: 'Find a Practitioner', link: '/tools/find-practitioners' },
+      //     { text: 'Find a Dispensary', link: '/tools/find-dispensaries' }
+      //   ]
+      // },
+      // { text: 'Resources', link: '/resources/' },
+      { text: 'Blog', link: '/blog/' },
+    ],
+    lastUpdated: 'Last Updated',
+    sidebar: {
+      '/guide/': [
+        '',   
+        'getting-certified',
+        'dispensaries/',
+      ],
+
+      // '/tools/': [
+      //   '',    
+      //   'find-practitioners',
+      // ],
+
+      '/blog/': [
+        '',    
+        '2018-11-25--download-pwa-mobile',
+      ],
+    },
+    docsRepo: 'OfLiberty/pacannabis.guide',
+    docsDir: 'docs',
+    docsBranch: 'master',
+    editLinks: true,
+    editLinkText: 'Help us improve this page!',
+  },
   plugins: [
     ['@vuepress/pwa', {
       serviceWorker: true,
@@ -26,55 +69,18 @@ module.exports = {
     ['@vuepress/google-analytics', {
       ga: 'UA-129734946-2'
     }],
+    // ['register-components', {
+    //     components: [
+    //       {
+    //         name: 'dispensary',
+    //         path: './components/Dispensary.vue'
+    //       }
+    //     ]
+    // }]
   ],
-  ga: 'UA-129734946-2',
-  themeConfig: {
-    search: true,
-    searchMaxSuggestions: 10,
-    displayAllHeaders: true,
-    nav: [
-      // { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      {
-        text: 'Tools',
-        items: [
-          { text: 'Find a Practitioner', link: '/tools/find-practitioners' },
-          { text: 'Find a Dispensary', link: '/tools/find-dispensaries' }
-        ]
-      },
-      { text: 'Blog', link: '/blog/' },
-    ],
-    lastUpdated: 'Last Updated',
-    sidebar: {  
-      '/guide/': [
-        '',   
-        'getting-certified',
-        'dispensaries/',
-      ],
-
-      '/tools/': [
-        '',    
-        'find-practitioners',
-        'find-dispensaries',
-      ],
-
-      '/blog/': [
-        '',    
-        '2018-11-25--download-the-guide-mobile',
-      ],
-    },
-    docsRepo: 'OfLiberty/pacannabis.guide',
-    docsDir: 'docs',
-    docsBranch: 'master',
-    editLinks: true,
-    editLinkText: 'Help us improve this page!',
-    serviceWorker: {
-      updatePopup: true,
-      updatePopup: { 
-         message: "New content is available.", 
-         buttonText: "Refresh" 
-      }
-    }
+  markdown: {
+    externalLinks: { permalinkBefore: false }
   },
+  ga: 'UA-129734946-2',
 }
 

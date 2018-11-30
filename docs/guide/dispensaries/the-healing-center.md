@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/the-healing-center
-layout: Dispensary
+permalink: /guide/dispensaries/the-healing-center/
+# layout: Dispensary
 title: The Healing Center, LLC
 website: http://www.thehealingcenterusa.com/
 locations:

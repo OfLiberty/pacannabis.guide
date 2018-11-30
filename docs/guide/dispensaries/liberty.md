@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/liberty
-layout: Dispensary
+permalink: /guide/dispensaries/liberty/
+# layout: Dispensary
 title: Liberty
 website: https://www.libertydispensarypa.com/
 locations:

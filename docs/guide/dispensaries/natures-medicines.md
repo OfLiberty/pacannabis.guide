@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/natures-medicines
-layout: Dispensary
+permalink: /guide/dispensaries/natures-medicines/
+# layout: Dispensary
 title: Nature's Medicines
 website: www.naturesmedicines.com/statecollege/
 locations:

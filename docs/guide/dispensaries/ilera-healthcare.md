@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/ilera-healthcare
-layout: Dispensary
+permalink: /guide/dispensaries/ilera-healthcare/
+# layout: Dispensary
 title: Ilera Healthcare
 website: http://www.ilerahealthcare.com/
 locations:

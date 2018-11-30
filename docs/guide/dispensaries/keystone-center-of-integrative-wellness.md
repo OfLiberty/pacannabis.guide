@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/keystone-center-of-integrative-wellness
-layout: Dispensary
+permalink: /guide/dispensaries/keystone-center-of-integrative-wellness/
+# layout: Dispensary
 title: Keystone Center of Integrative Wellness
 website: https://www.keystoneciw.com/
 locations:

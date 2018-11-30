@@ -13,4 +13,55 @@ features:
 footer: MIT Licensed | Copyright © 2018-present ofLiberty
 ---
 
+## Project Status
+### Alpha
+***Version: v0.2.4--alpha***
+
+This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.
+
+### Looking For Contributors
+
+If you have an interest in contributing to this project please fill out the form below.
+
+
+
+
+<div id="mc_embed_signup">
+<form action="https://ofliberty.us15.list-manage.com/subscribe/post?u=cae1d8de765df8d2be23d5745&amp;id=3d0f51e234" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-CONTRIBUTE">How you'd like to contribute </label>
+	<select name="CONTRIBUTE" class="" id="mce-CONTRIBUTE">
+	<option value=""></option>
+	<option value="Programming, coding, and development">Programming, coding, and development</option>
+<option value="Design, graphics, photography">Design, graphics, photography</option>
+<option value="Content writing, product analysis, research">Content writing, product analysis, research</option>
+<option value="I can toss a couple dollars your way to support cannabis education in PA">I can toss a couple dollars your way to support cannabis education in PA</option>
+
+</select>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>   
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cae1d8de765df8d2be23d5745_3d0f51e234" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
 

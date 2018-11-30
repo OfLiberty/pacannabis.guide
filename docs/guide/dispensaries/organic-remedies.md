@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/organic-remedies--enola
-layout: Dispensary
+permalink: /guide/dispensaries/organic-remedies--enola/
+# layout: Dispensary
 title: Organic Remedies-Enola
 website: http://organicremediespa.com/
 locations:

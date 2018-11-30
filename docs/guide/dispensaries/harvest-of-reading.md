@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/harvest-of-reading
-layout: Dispensary
+permalink: /guide/dispensaries/harvest-of-reading/
+# layout: Dispensary
 title: Harvest of Reading
 date_mmj_available: 10/4/18
 website: www.harvestofreading.com

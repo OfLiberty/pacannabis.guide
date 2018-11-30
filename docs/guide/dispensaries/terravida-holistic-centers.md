@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/terravida-holistic-centers
-layout: Dispensary
+permalink: /guide/dispensaries/terravida-holistic-centers/
+# layout: Dispensary
 title: TerraVida Holistic Centers
 website: https://www.terravidahc.com/
 locations:

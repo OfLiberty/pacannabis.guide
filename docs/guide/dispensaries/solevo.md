@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/solevo
-layout: Dispensary
+permalink: /guide/dispensaries/solevo/
+# layout: Dispensary
 title: Solevo
 website: https://www.solevowellness.com
 locations:

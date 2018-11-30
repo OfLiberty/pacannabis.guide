@@ -4,7 +4,7 @@
   "theme_color": "#1a7b00",
   "background_color": "#1A7B00",
   "display": "standalone",
-  "start_url": "/index.html",
+  "start_url": "https://pacannabis.guide/index.html",
   "icons": [
     {
       "src": "/images/icons/icon-72x72.png",

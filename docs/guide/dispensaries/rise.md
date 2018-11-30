@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/rise
-layout: Dispensary
+permalink: /guide/dispensaries/rise/
+# layout: Dispensary
 title: RISE
 website: https://www.risedispensaries.com/dispensaries-locations/york
 locations:

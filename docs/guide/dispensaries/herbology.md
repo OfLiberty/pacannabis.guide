@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/herbology
-layout: Dispensary
+permalink: /guide/dispensaries/herbology/
+# layout: Dispensary
 title: Herbology
 website: https://www.herbologydispensary.com/
 locations:

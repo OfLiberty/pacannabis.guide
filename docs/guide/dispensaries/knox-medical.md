@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/knox-medical
-layout: Dispensary
+permalink: /guide/dispensaries/knox-medical/
+# layout: Dispensary
 title: Knox Medical
 website: www.Knoxmedical.com
 locations:

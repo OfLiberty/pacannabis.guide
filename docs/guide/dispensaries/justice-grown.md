@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/justice-grown
-layout: Dispensary
+permalink: /guide/dispensaries/justice-grown/
+# layout: Dispensary
 title: Justice Grown
 website: https://www.justicegrownpa.com/
 locations:

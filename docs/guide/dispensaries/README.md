@@ -1,11 +1,37 @@
 ---
 title: Dispensaries
+sidebarDepth: 0
 permalink: /guide/dispensaries/
+# sidebar: auto
+
 ---
+
 # Dispensaries
 
-<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ji3AY1MuR8iv3Ny7JHyM5RcZ3xxChp7y" width="640" height="480"></iframe> -->
-<!-- Search for a medical marijuana dispensary in Pennsylvania using the filters below. -->
+
 All PA dispensaries are listed below.
 
-<Dispensaries />
+<!-- <Dispensaries /> -->
+
+- [Beyond Hello](/guide/dispensaries/beyond-hello/)
+- [Columbia Care PA, LLC](/guide/dispensaries/columbia-care/)
+- [Cresco Yeltrah](/guide/dispensaries/cresco-yeltrah/)
+- [Cure Pennsylvania](/guide/dispensaries/cure-pennsylvania/)
+- [Harvest of Reading](/guide/dispensaries/harvest-of-reading/)
+- [Herbology](/guide/dispensaries/herbology/)
+- [Ilera Healthcare](/guide/dispensaries/ilera-healthcare/)
+- [Justice Grown](/guide/dispensaries/justice-grown/)
+- [Keystone Canna Remedies](/guide/dispensaries/keystone-canna-remedies/)
+- [Keystone Center of Integrative Wellness](/guide/dispensaries/keystone-center-of-integrative-wellness/)
+- [Keystone Shops](/guide/dispensaries/keystone-shops/)
+- [Knox Medical](/guide/dispensaries/knox-medical/)
+- [Liberty](/guide/dispensaries/liberty/)
+- [Maitri Medicinals](/guide/dispensaries/maitri-medicinals/)
+- [Mission Pennsylvania II, LLC](/guide/dispensaries/mission-pennsylvania-ii/)
+- [Nature's Medicines](/guide/dispensaries/natures-medicines/)
+- [Organic Remedies](/guide/dispensaries/organic-remedies/)
+- [Restore Integrative Wellness Center, LLC](/guide/dispensaries/restore-integrative-wellness-center/)
+- [RISE](/guide/dispensaries/rise/)
+- [Solevo](/guide/dispensaries/solevo/)
+- [TerraVida Holistic Centers](/guide/dispensaries/terravida-holistic-centers/)
+- [The Healing Center, LLC](/guide/dispensaries/the-healing-center/)

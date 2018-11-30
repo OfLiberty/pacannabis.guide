@@ -1,7 +1,7 @@
 ---
 title: Cresco Yeltrah
-permalink: /guide/dispensaries/cresco-yeltrah--butler-county
-layout: Dispensary
+permalink: /guide/dispensaries/cresco-yeltrah/
+# layout: Dispensary
 date_mmj_available: 2/15/18
 website: http://www.cydispensary.com/
 locations:

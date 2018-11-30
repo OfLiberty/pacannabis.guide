@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/maitri-medicinals
-layout: Dispensary
+permalink: /guide/dispensaries/maitri-medicinals/
+# layout: Dispensary
 title: Maitri Medicinals - Uniontown
 website: https://www.maitrimedicinals.com/
 locations:

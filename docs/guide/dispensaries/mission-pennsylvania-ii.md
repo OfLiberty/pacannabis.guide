@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/mission-pennsylvania-ii
-layout: Dispensary
+permalink: /guide/dispensaries/mission-pennsylvania-ii/
+# layout: Dispensary
 title: Mission Pennsylvania II, LLC
 website: https://www.missioncan.com/
 locations:

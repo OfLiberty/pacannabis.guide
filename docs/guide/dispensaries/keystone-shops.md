@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/keystone-shops
-layout: Dispensary
+permalink: /guide/dispensaries/keystone-shops/
+# layout: Dispensary
 title: Keystone Shops
 website: https://keystoneshops.com/
 locations:

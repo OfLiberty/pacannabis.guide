@@ -1,5 +1,6 @@
 ---
 title: Introduction
+sidebarDepth: 0
 permalink: /guide/
 ---
 # Introduction

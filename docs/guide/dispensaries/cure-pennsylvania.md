@@ -1,6 +1,6 @@
 ---
-permalink: /guide/dispensaries/cure-pennsylvania
-layout: Dispensary
+permalink: /guide/dispensaries/cure-pennsylvania/
+# layout: Dispensary
 title: Cure Pennsylvania
 website: https://curepenn.com/
 locations:
