@@ -22,7 +22,7 @@ module.exports = {
     },
     search: true,
     searchMaxSuggestions: 10,
-    displayAllHeaders: true,
+    // displayAllHeaders: true,
     nav: [
       { text: 'Guide', link: '/guide/' },
       // {

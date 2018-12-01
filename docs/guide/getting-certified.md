@@ -1,7 +1,7 @@
 ---
 title: Getting Certified
 permalink: /guide/getting-certified.html
-sidebarDepth: 0
+# sidebarDepth: 0
 ---
 
 # Getting Certified

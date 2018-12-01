@@ -1,6 +1,5 @@
 ---
 title: Introduction
-sidebarDepth: 0
 permalink: /guide/
 ---
 # Introduction
@@ -9,11 +8,11 @@ The Guide is designed to meet modern web standards, be lightweight, and be easil
 
 ## Philosophy
 
-The Guide tries to promote and balance three philosophies:
+The Guide is built upon three philosophies:
 
 - Open source
-- Support science based medicine
-- Promote individual liberty
+- Science based medicine
+- Individual liberty
 
 ### Open Source
 
@@ -25,7 +24,7 @@ The Guide will take a [science based](https://sciencebasedmedicine.org/about-sci
 
 The U.S.'s federal prohabition of cannabis has prevented much research into cannabis. There has been organized efforts in misinforming the public and this project is seeking to rectify this deficiency.
 
-### Liberty
+### Individual Liberty
 
 The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it through education.
 
