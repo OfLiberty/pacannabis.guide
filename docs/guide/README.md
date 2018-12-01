@@ -30,6 +30,7 @@ The Guide's ultimate purpose is to liberate the public from the bonds of ignoran
 
 ## How to Contribute
 
+### Edit existing pages
 In order to contribute content you will need a [Github account](https://github.com/).
 
 Navigate to [our repository](https://github.com/OfLiberty/pacannabis.guide). Either <i class="fas fa-eye"></i> watch or <i class="fas fa-star"></i> star or both to keep up to date with changes.
@@ -37,6 +38,35 @@ Navigate to [our repository](https://github.com/OfLiberty/pacannabis.guide). Eit
 While browsing the guide, click "Help us improve this page!" link at the bottom of the page. You'll be brought to a page that is [markdown editable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Once finished, you may commit your changes as a new branch for review. 
+
+### Submit Features, Issues, Service Requests
+
+Below is a template you can use to [submit issues to the projects Github repository](https://github.com/OfLiberty/pacannabis.guide/issues/new).
+
+```md 
+<!-- 
+    Github Issue Template
+--------------------------->
+Url: <!-- Replace with full URL -->
+
+Issue Type: 
+<!-- Delete Non Applicable tabs -->
+- bug
+- feature
+- service request
+
+**TLDR Description:** 
+<!-- Quick overview of the issue. Should sum up the task. Write below this line. -->
+
+
+**Full Description:** 
+<!-- The full task description if the TLDR doesn't adiquately cover the request. Write below this line.-->
+
+
+```
+
+
+
 
 ## Supporting the Guide
 
