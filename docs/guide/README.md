@@ -4,7 +4,7 @@ permalink: /guide/
 ---
 # Introduction
 
-The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or contribute to its success through Github.
+The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or [contribute to its success through Github](https://github.com/OfLiberty/pacannabis.guide).
 
 ## Philosophy
 
@@ -32,7 +32,9 @@ The Guide's ultimate purpose is to liberate the public from the bonds of ignoran
 
 In order to contribute content you will need a [Github account](https://github.com/).
 
-Then browse while on the guide and click the "Help us improve this page!" link at the bottom of the page. You'll be brought to a page that is [markdown editable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Navigate to [our repository](https://github.com/OfLiberty/pacannabis.guide). Either <i class="fas fa-eye"></i> watch or <i class="fas fa-star"></i> star or both to keep up to date with changes.
+
+While browsing the guide, click "Help us improve this page!" link at the bottom of the page. You'll be brought to a page that is [markdown editable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Once finished, you may commit your changes as a new branch for review. 
 
