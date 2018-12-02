@@ -1,6 +1,12 @@
 ---
 title: Introduction
 permalink: /guide/
+
+meta:
+  - property: 'og:image'
+    content: '/images/open-graph.png'
+- property: 'og:type'
+    content: 'article'
 ---
 # Introduction
 

@@ -2,9 +2,9 @@ module.exports = {
   title: 'PA Cannabis Guide',
   description: 'Handbook guiding PA patients through cannabis products, services, and news',
   head: [
-    ['meta', { property: 'og:title', href: 'PA Cannabis Guide'}],
-    ['meta', { property: 'og:description', href: 'Handbook guiding PA patients through cannabis products, services, and news'}],
-    ['meta', { property: 'og:image', href: '/images/open-graph.png'}],
+    ['meta', { property: 'og:title', content: 'PA Cannabis Guide'}],
+    ['meta', { property: 'og:description', content: 'Handbook guiding PA patients through cannabis products, services, and news'}],
+    ['meta', { property: 'og:image', content: 'https://pacannabis.guide/images/open-graph.png'}],
     ['link', { rel: 'shortcut icon', href: `/favicons/favicon.ico` }],
     ['link', { rel: 'icon', type:"image/png", sizes:"16x16", href: `/favicons/favicon-16x16.png` }],
     ['link', { rel: 'icon', type:"image/png", sizes:"32x32", href: `/favicons/favicon-32x32.png` }],
