@@ -21,3 +21,4 @@ permalink: /guide/cannabis/
 ### Topicals
 
 ## Tools
+

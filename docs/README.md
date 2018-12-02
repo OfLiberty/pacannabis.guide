@@ -19,9 +19,9 @@ This project is built upon software that is currently in the alpha stage of deve
 
 ### Looking For Contributors
 
-If you have an interest in contributing to this project please fill out the form below.
+You may follow, watch, or fork this project's [repository](https://github.com/OfLiberty/pacannabis.guide) and report any issues through [our issue tracker](https://github.com/OfLiberty/pacannabis.guide/issues). Prior to submitting issues, please consult with the repository's `README.md` or our [How to Contribute](/guide/#how-to-contribute) section of the guide.
 
-
+Alternatively, if you have an interest in contributing to this project please fill out the form below. By filling out the form below you will be joining ofLiberty's newsletter to coorindate contributions.
 
 
 <div id="mc_embed_signup">
@@ -44,12 +44,11 @@ If you have an interest in contributing to this project please fill out the form
 <div class="mc-field-group">
 	<label for="mce-CONTRIBUTE">How you'd like to contribute </label>
 	<select name="CONTRIBUTE" class="" id="mce-CONTRIBUTE">
-	<option value=""></option>
-	<option value="Programming, coding, and development">Programming, coding, and development</option>
+	<option value="Just keep me up to date with Newsletters">Just keep me up to date with Newsletters</option>
+<option value="Programming, coding, and development">Programming, coding, and development</option>
 <option value="Design, graphics, photography">Design, graphics, photography</option>
 <option value="Content writing, product analysis, research">Content writing, product analysis, research</option>
 <option value="I can toss a couple dollars your way to support cannabis education in PA">I can toss a couple dollars your way to support cannabis education in PA</option>
-
 </select>
 </div>
 	<div id="mce-responses" class="clear">
@@ -61,5 +60,4 @@ If you have an interest in contributing to this project please fill out the form
     </div>
 </form>
 </div>
-
 
