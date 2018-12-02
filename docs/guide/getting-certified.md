@@ -11,6 +11,7 @@ The following details the the prerequisites for medical cannabis in Pennsylvania
 ## Contents
 [[toc]]
 
+
 <Ads />
 
 ## Qualifying Medical Conditions
