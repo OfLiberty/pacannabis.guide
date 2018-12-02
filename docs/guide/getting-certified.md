@@ -1,6 +1,6 @@
 ---
 title: Getting Certified
-permalink: /guide/getting-certified.html
+permalink: /guide/getting-certified/
 # sidebarDepth: 0
 ---
 

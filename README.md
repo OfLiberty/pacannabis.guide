@@ -1,4 +1,4 @@
-
+# PA Cannabis Guide
 The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or [contribute to its success through Github](https://github.com/OfLiberty/pacannabis.guide).
 
 ## Philosophy
