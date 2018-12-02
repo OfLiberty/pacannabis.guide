@@ -5,6 +5,7 @@ permalink: /guide/dispensaries/
 # sidebar: auto
 
 ---
+<Ads />
 
 # Dispensaries
 
@@ -35,3 +36,5 @@ All PA dispensaries are listed below.
 - [Solevo](/guide/dispensaries/solevo/)
 - [TerraVida Holistic Centers](/guide/dispensaries/terravida-holistic-centers/)
 - [The Healing Center, LLC](/guide/dispensaries/the-healing-center/)
+
+<Ads />

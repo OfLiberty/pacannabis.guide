@@ -83,5 +83,6 @@ module.exports = {
     externalLinks: { permalinkBefore: false }
   },
   ga: 'UA-129734946-2',
+  impactWireless: 'https://influencepays.clickfunnels.com/influencer-back-office',
 }
 

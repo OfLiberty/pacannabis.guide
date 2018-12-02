@@ -13,6 +13,7 @@ features:
 footer: MIT Licensed | Copyright © 2018-present ofLiberty
 ---
 
+
 ## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.2.5"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.

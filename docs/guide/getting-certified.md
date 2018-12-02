@@ -8,6 +8,11 @@ permalink: /guide/getting-certified/
 
 The following details the the prerequisites for medical cannabis in Pennsylvania
 
+## Contents
+[[toc]]
+
+<Ads />
+
 ## Qualifying Medical Conditions
 
 In order to be eligible for the PA Medical Marijuana program you must have a certified doctors diagnosis of one of the following conditions:
@@ -33,6 +38,7 @@ Damage to the nervous tissue of the central nervous system (brain-spinal cord) w
 - Sickle cell anemia
 - Terminal illness
 
+
 ## Practioners 
 
 In addition to having a diagnosis of a [Qualifying Medical Conditions](/guide/getting-certified.html#qualifying-medical-conditions) you will need to see a practitioner who is licensed to prescribe medical cannabis.
@@ -40,6 +46,7 @@ In addition to having a diagnosis of a [Qualifying Medical Conditions](/guide/ge
 You can [use our tool](/tools/find-practitioners.html) to find a practitioner or you can find the most up-to-date practioner list through your account at the [Department of Health's Pennsylvania Medical Marijuana Program website](https://padohmmp.custhelp.com/app/login).
 
 <Practitioners />
+
 
 ## Caregivers
 

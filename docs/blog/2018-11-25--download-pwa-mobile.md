@@ -10,7 +10,10 @@ tags:
 - meta
 - pwa
 ---
+<Ads />
+
 # Downloading a Progressive Web App to Your Mobile (iOS) Device
+
 
 1. Tap on the *Share* button at the bottom of the screen.
 
@@ -31,3 +34,4 @@ tags:
 Open up the app and confirm it is working. You will now have access to our information even offline.
 
 ![step 5](/images/install-pwa--5.png "PWA Setup Step 5")
+
