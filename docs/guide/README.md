@@ -1,12 +1,6 @@
 ---
 title: Introduction
 permalink: /guide/
-
-meta:
-  - property: 'og:image'
-    content: '/images/open-graph.png'
-- property: 'og:type'
-    content: 'article'
 ---
 # Introduction
 
@@ -35,6 +29,8 @@ The U.S.'s federal prohabition of cannabis has prevented much research into cann
 The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it through education.
 
 ## How to Contribute
+
+Most contributions are done through the [Github repository](https://github.com/OfLiberty/pacannabis.guide). Follow [our progress on the projects](https://github.com/OfLiberty/pacannabis.guide/projects) page.
 
 ### Edit existing pages
 In order to contribute content you will need a [Github account](https://github.com/).

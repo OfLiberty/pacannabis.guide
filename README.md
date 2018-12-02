@@ -25,6 +25,8 @@ The Guide's ultimate purpose is to liberate the public from the bonds of ignoran
 
 ## How to Contribute
 
+Most contributions are done through the [Github repository](https://github.com/OfLiberty/pacannabis.guide). Follow [our progress on the projects](https://github.com/OfLiberty/pacannabis.guide/projects) page.
+
 ### Edit existing pages
 In order to contribute content you will need a [Github account](https://github.com/).
 
