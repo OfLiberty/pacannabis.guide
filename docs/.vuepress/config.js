@@ -68,7 +68,7 @@ module.exports = {
       serviceWorker: true,
       updatePopup: true
     }],
-    ['@vuepress/medium-zoom', true],
+    ['@vuepress/medium-zoom', false],
     ['@vuepress/notification', true],
     ['@vuepress/google-analytics', {
       ga: 'UA-129734946-2'

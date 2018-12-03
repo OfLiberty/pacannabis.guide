@@ -1,10 +1,10 @@
 <template>
     <div>
         <div v-if="this.displayAd == 0">
-            <a href="https://www.entireweb.com/seo/?a=ofLiberty&amp;b=c124b148" target="_blank"><img src="http://affiliate.entireweb.com/accounts/default1/bz06nf/c124b148.gif" alt="Entireweb SEO Service" title="Entireweb SEO Service" width="468" height="60" /></a><img style="border:0" src="http://affiliate.entireweb.com/scripts/iz06nf?a=ofLiberty&amp;b=c124b148" width="1" height="1" alt="" />
+            <a href="https://pacannabis.guide/entireweb.html" target="_blank"><img class="no-spy" src="http://affiliate.entireweb.com/accounts/default1/bz06nf/c124b148.gif" alt="Entireweb SEO Service" title="Entireweb SEO Service" width="468" height="60" /></a><img class="no-spy" style="border:0" src="http://affiliate.entireweb.com/scripts/iz06nf?a=ofLiberty&amp;b=c124b148" width="1" height="1" alt="" />
         </div>
         <div v-if="this.displayAd == 1">
-            <a href="http://www.entireweb.com/free_submission/?a=ofLiberty&amp;b=d191e86d" target="_blank"><img src="http://affiliate.entireweb.com/accounts/default1/bz06nf/d191e86d.jpg" alt="Free Search Engine Submission" title="Free Search Engine Submission" width="468" height="60" /></a><img style="border:0" src="http://affiliate.entireweb.com/scripts/iz06nf?a=ofLiberty&amp;b=d191e86d" width="1" height="1" alt="" />
+            <a href="https://pacannabis.guide/entireweb.html" target="_blank"><img class="no-spy" src="http://affiliate.entireweb.com/accounts/default1/bz06nf/d191e86d.jpg" alt="Free Search Engine Submission" title="Free Search Engine Submission" width="468" height="60" /></a><img class="no-spy" style="border:0" src="http://affiliate.entireweb.com/scripts/iz06nf?a=ofLiberty&amp;b=d191e86d" width="1" height="1" alt="" />
         </div>
         <div v-if="this.displayAd == 2">
             <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=gift_certificates&banner=180TQ0K9X17QCCZQS4R2&f=ifr&linkID=b60d87c07d8d250bf901a95b7cfd06e1&t=ofliberty-20&tracking_id=ofliberty-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
@@ -36,45 +36,7 @@ export default {
 }
 </script>
 <style>
-    /* #county{ 
-        width: 100%;
-    } */
-    label{
-        float:left;
-        width: 30%;
-        text-align: right;
-        padding: 0px 1em;
-
-    }
-    select{
-        float:left;
-        width: 60%;
-        padding: 0px 1em;
-
-    }
-    .filter{
-        padding: 1em 0px;
-    }
-    .clearfix{
-        clear:both;
-    }
-    .results{
-        padding: 1em;
-    }
-
-    @media only screen and (min-width: 1px) and (max-width: 700px){
-        label{
-            float:left;
-            width: auto;
-            text-align: center;
-            padding: .3em 0px;
-
-        }
-        select{
-            float:left;
-            width: 100%;
-            padding: .3em 0px;
-
-        }
-    }
+   .no-spy{
+       
+   }
 </style>
