@@ -6,10 +6,6 @@ permalink: /guide/
 
 The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or [contribute to its success through Github](https://github.com/OfLiberty/pacannabis.guide).
 
-## How To Use This Guide
-
-
-
 ## Philosophy
 
 The Guide is built upon three philosophies:
@@ -31,6 +27,16 @@ The U.S.'s federal prohabition of cannabis has prevented much research into cann
 ### Individual Liberty
 
 The Guide's ultimate purpose is to liberate the public from the bonds of ignorance. Pennsylvania's government has done a poor job of protecting our rights. This Guide seeks to correct it through education.
+
+## How To Use This Guide
+
+The guide serves as a respository of cannabis information in Pennsylvania. Here are a few tricks to using the guide.
+
+### Header Anchors
+Next to every major heading you will see a green [<i class="fas fa-bong"></i>](/guide/#how-to-use-this-guide) icon when overing over it. Clicking it adds the header's anchor to the url. Now you may easily link to that specific content in discussions outside this website.
+
+### Install the Guide on Your Phone
+The PA Cannabis Guide is a progressive web application meaning it can likely be [installed onto your smartphone](/blog/2018/11/25/download-pwa-mobile/).
 
 ## How to Contribute
 

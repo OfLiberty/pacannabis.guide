@@ -1,7 +1,7 @@
 ---
 title: Downloading a Progressive Web App to Your Mobile (iOS) Device
 description: Instructions to getting setup with Progressive Web Applications on your iOS device
-permalink: /blog/2018/11/25/download-pwa-mobile.html
+permalink: /blog/2018/11/25/download-pwa-mobile/
 date: 2018-11-25
 sites:
 - weed
