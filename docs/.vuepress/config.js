@@ -83,7 +83,8 @@ module.exports = {
     // }]
   ],
   markdown: {
-    externalLinks: { permalinkBefore: false }
+    externalLinks: { permalinkBefore: false },
+    anchor: { permalinkSymbol: '<i class="fas fa-bong"></i>' },
   },
   ga: 'UA-129734946-2',
   impactWireless: 'https://influencepays.clickfunnels.com/influencer-back-office',
