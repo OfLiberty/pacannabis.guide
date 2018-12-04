@@ -27,7 +27,9 @@ Alternatively, if you have an interest in contributing to this project please fi
 <div id="mc_embed_signup">
 <form action="https://ofliberty.us15.list-manage.com/subscribe/post?u=cae1d8de765df8d2be23d5745&amp;id=3d0f51e234" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+	<h4 class="text-center">Sign Up for ofLiberty</h4>
+	<p class="text-center" style="margin-top:0px"><small>OfLiberty is organizing the contributions to the guide.</small></p>
+<div class="text-center indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
