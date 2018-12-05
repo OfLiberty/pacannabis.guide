@@ -10,7 +10,7 @@ module.exports = {
     ['link', { rel: 'icon', type:"image/png", sizes:"32x32", href: `/favicons/favicon-32x32.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: `/favicons/apple-touch-icon.png` }],
     ['link', { rel: 'mask-icon', href: '/favicons/safari-pinned-tab.svg', color: '#1a7b00' }],
@@ -47,11 +47,6 @@ module.exports = {
         'cannabis',
       ],
 
-      // '/tools/': [
-      //   '',    
-      //   'find-practitioners',
-      // ],
-
       '/blog/': [
         '',    
         '2018-11-25--download-pwa-mobile',
@@ -86,7 +81,7 @@ module.exports = {
     externalLinks: { permalinkBefore: false },
     anchor: { permalinkSymbol: '<i class="fas fa-bong"></i>' },
   },
-  ga: 'UA-129734946-2',
-  impactWireless: 'https://influencepays.clickfunnels.com/influencer-back-office',
+  // ga: 'UA-129734946-2',
+  // impactWireless: 'https://influencepays.clickfunnels.com/influencer-back-office',
 }
 

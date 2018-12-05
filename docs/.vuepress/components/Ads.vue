@@ -22,7 +22,6 @@
 </template>
 
 <script>
-// import dispensaries from '../data/pa-dispensaries.json'
 export default {
     name: 'ads',
     data () {

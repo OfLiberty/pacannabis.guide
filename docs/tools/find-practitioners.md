@@ -1,8 +1,6 @@
 ---
-# layout: Practitioners
 title: Find a Practitioner
 permalink: /tools/find-practitioners.html
-# sidebar: auto
 ---
 
 # Find a Practitioner
