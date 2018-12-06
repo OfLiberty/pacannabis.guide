@@ -14,6 +14,7 @@ tags:
 
 # Downloading a Progressive Web App to Your Mobile (iOS) Device
 
+*Edit: As per [this iOS issue](https://stackoverflow.com/questions/51351500/issues-with-pwa-in-standalone-mode-on-ios-11-4), PWAs are bugged in webkit/iOS when referencing the scripts our build tools use. The [PA Cannabis Guide](https://pacannabis.guide/) will not maintain support for iOS until Apple resolves the issue.
 
 1. Tap on the *Share* button at the bottom of the screen.
 
