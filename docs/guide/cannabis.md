@@ -13,7 +13,7 @@ permalink: /guide/cannabis/
 ### Sativa
 ### Hybrid
 
-## Forms and Consumption
+## Forms
 
 ### Flowers
 ### Cartridges
@@ -21,5 +21,9 @@ permalink: /guide/cannabis/
 ### Tinctures
 ### Topicals
 
-## Tools
+## Consumption
+
+### Vaporization
+### Oral
+### Topical
 

@@ -45,6 +45,7 @@ module.exports = {
         'getting-certified',
         'dispensaries/',
         'cannabis',
+        'tools',
       ],
 
       '/blog/': [
