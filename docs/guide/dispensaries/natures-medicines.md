@@ -2,7 +2,7 @@
 permalink: /guide/dispensaries/natures-medicines/
 # layout: Dispensary
 title: Nature's Medicines
-website: www.naturesmedicines.com/statecollege/
+website: www.naturesmedicines.com
 locations:
 - date_opened: 6/21/18
   address: 2105 N Atherton Street
@@ -13,23 +13,20 @@ locations:
 # Nature's Medicines
 *Opened June 21<sup>st</sup>, 2018*
 
-[Beyond-Hello.com <i class="fas fa-globe float-right"></i>](https://www.beyond-hello.com)
+[NaturesMedicines.com <i class="fas fa-globe float-right"></i>](https://www.naturesmedicines.com)
 
-[Main: 267-580-5801 <i class="fas fa-phone float-right"></i>](tel:267-580-5801)
+[Main: 814-924-0597 <i class="fas fa-phone float-right"></i>](tel:814-924-0597)
 
 ## Mission Statement
-We founded and built an entire company on two small words that have massive implications. 
-In our industry people are about the transaction - get in, buy something, leave... 
-They care about the bottom line. 
+Our State College location is the first medical marijuana dispensary to open in Centre County, Pennsylvania. Conveniently located next to Penn State University, this store has some of the highest quality, low-priced concentrates in Pennsylvania. Click below for MMJ specials and more information!
 
-Not us, we believe in helping, in serving, in questioning, in being deliberate, intentional, fully focused on our customer.
 
 
 
 ## Locations <i class="fas fa-map-marked-alt float-right"></i>
 ### Bristol
-2412-2414 Durham Road<br>
-Bristol, PA
+2105 N Atherton Street<br>
+State College, PA
 
 
 
