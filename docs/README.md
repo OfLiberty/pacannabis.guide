@@ -13,9 +13,27 @@ features:
 footer: MIT Licensed | Copyright © 2018-present ofLiberty
 ---
 
-## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.2.22"/>
+## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.3.0"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.
+
+### Supported Systems
+
+#### Browser 
+<i class="fa-3x fab fa-chrome"></i>
+<i class="fa-3x fab fa-firefox"></i>
+<i class="fa-3x fab fa-safari"></i>
+<i class="fa-3x fab fa-edge"></i>
+<i class="fa-3x fab fa-internet-explorer"></i>
+<i class="fa-3x fab fa-opera"></i>
+
+#### Desktop PWA Support 
+<i class="fa-3x fab fa-chrome"></i>
+
+#### Mobile PWA Support
+<i class="fa-3x fab fa-android"></i>
+<!-- <i class="fa-3x fab fa-apple"></i> -->
+
 
 ### Looking For Contributors
 
@@ -28,7 +46,6 @@ Alternatively, if you have an interest in contributing to this project please fi
 <form action="https://ofliberty.us15.list-manage.com/subscribe/post?u=cae1d8de765df8d2be23d5745&amp;id=3d0f51e234" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h4 class="text-center">Sign Up for ofLiberty</h4>
-	<p class="text-center" style="margin-top:0px"><small>OfLiberty is organizing the contributions to the guide.</small></p>
 <div class="text-center indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
