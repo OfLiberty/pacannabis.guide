@@ -9,6 +9,7 @@ permalink: /guide/dispensaries/
 
 # Dispensaries
 
+Dispensaries are pharmacies that specialize in cannabis. Various products containing cannabis are sold at these locations as well as tools to facilitate its consumption. 
 
 All PA dispensaries are listed below.
 

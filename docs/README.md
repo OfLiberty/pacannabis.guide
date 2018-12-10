@@ -18,6 +18,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.
 
 ### Supported Systems
+*Progressive web app support is still being implemented by Apple. Some features could be disabled until Apple fully implements the web standard.*
 
 #### Browser 
 <i class="fa-3x fab fa-chrome"></i>

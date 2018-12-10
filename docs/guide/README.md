@@ -16,9 +16,9 @@ The Guide is built upon three philosophies:
 
 ### Open Source
 
-The Guide is built using open source tools and services, primarily Vue and VuePress. The tools we create for the site will be made available for others to use. 
+The Guide is built using open source tools and services, primarily [Vue and VuePress](https://vuejs.org/). The tools we create for the site will be made available for others to use. By contributing to Vue, you are also indirectly contributing to our projects.
 
-### Science Based Medicine
+### Science Based
 
 The Guide will take a [science based](https://sciencebasedmedicine.org/about-science-based-medicine/) approach to what we promote. The cannabis indusry has been tied, implicitly or explicitly, to pseudoscientific beliefs and practices. It's the duty of contributors to rectify this misconception.
 

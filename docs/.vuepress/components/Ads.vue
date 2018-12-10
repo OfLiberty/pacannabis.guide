@@ -17,6 +17,11 @@
                 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=kindlerotating&f=ifr&linkID=98cb69633942dd64d14f91c618c9e8d4&t=ofliberty-20&tracking_id=ofliberty-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
             </div>
         </div>
+        <div v-if="!this.ads">
+            <small><em>
+            This is a project from <a href="https://ofliberty.org/" target="_blank">ofLiberty</a> and is being brought to you ad free. <a href="https://www.patreon.com/ofLiberty" target="_blank">Please donate today</a> to allow us to continue to provide an ad free experience.
+            </em></small>
+        </div>
     </div>
 
 </template>

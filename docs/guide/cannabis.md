@@ -3,6 +3,7 @@ title: Cannabis
 permalink: /guide/cannabis/
 # sidebarDepth: 0
 ---
+<Ads />
 
 # Cannabis
 
