@@ -13,7 +13,7 @@ features:
 footer: MIT Licensed | Copyright © 2018-present ofLiberty
 ---
 
-## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.3.0"/>
+## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.3.6"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.
 
@@ -28,10 +28,11 @@ This project is built upon software that is currently in the alpha stage of deve
 <i class="fa-3x fab fa-internet-explorer"></i>
 <i class="fa-3x fab fa-opera"></i>
 
-#### Desktop PWA Support 
+#### Browser PWA Support 
 <i class="fa-3x fab fa-chrome"></i>
+<i class="fa-3x fab fa-opera"></i>
 
-#### Mobile PWA Support
+#### Mobile OS PWA Support
 <i class="fa-3x fab fa-android"></i>
 <!-- <i class="fa-3x fab fa-apple"></i> -->
 

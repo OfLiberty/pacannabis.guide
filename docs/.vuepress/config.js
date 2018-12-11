@@ -47,10 +47,10 @@ module.exports = {
         'cannabis',
         'tools',
       ],
-
+      
       '/blog/': [
         '',    
-        '2018-11-25--download-pwa-mobile',
+        'faqs',
       ],
     },
     docsRepo: 'OfLiberty/pacannabis.guide',
