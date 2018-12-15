@@ -6,9 +6,14 @@ permalink: /guide/
 
 The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or [contribute to its success through Github](https://github.com/OfLiberty/pacannabis.guide).
 
+::: warning Caveat Emptor
+<small>This guide contains paid links to various 3rd party websites. These links help fund the guide and allows for a non-ad experience. [OfLiberty](https://www.patreon.com/ofLiberty) is the current primary sponsor of this project. For a complete list of sponsors, you may view our [sponsors section](/#sponsors).</small>
+:::
+
 ## How To Use This Guide
 
 The guide serves as a repository of cannabis information in Pennsylvania. Here are a few tricks to using the guide.
+
 
 ### Header Anchors
 Next to every major heading you will see a green [<i class="fas fa-bong"></i>](/guide/#how-to-use-this-guide) icon when overing over it. Clicking it adds the header's anchor to the url. Now you may easily link to that specific content in discussions outside this website.
