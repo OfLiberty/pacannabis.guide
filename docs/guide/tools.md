@@ -9,11 +9,11 @@ permalink: /guide/tools/
 
 [[toc]]
 
-## Preperation 
+## Preparation 
 
 ### Grinder
 
-Grinders are designed to consistantly grind and blend your flowers or herbs into consistent smaller bits. Some contain a pollen or kief catcher. These chambers build up with fine potent cannabis crystals that can be pressed into hash, used in cooking, or even vaporized. 
+Grinders are designed to consistently grind and blend your flowers or herbs into consistent smaller bits. Some contain a pollen or kief catcher. These chambers build up with fine potent cannabis crystals that can be pressed into hash, used in cooking, or even vaporized. 
 
 Products range from [standard 4 piece grinders](https://amzn.to/2Uw71Ki), [some with portable and discrete features](https://amzn.to/2EcMXHa), [and others that are ornate or decorative](https://amzn.to/2QGD0IW).
 
@@ -22,7 +22,7 @@ Products range from [standard 4 piece grinders](https://amzn.to/2Uw71Ki), [some 
 <a href="https://www.amazon.com/dp/B01LWOM0GX/ref=as_li_ss_il?pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=psxvW&pf_rd_r=WD34ZKHYZH199PTY10KR&pd_rd_i=B01LWOM0GX&pd_rd_w=6b8bK&pd_rd_r=fef77edd-0656-4b88-b9b5-c70c5133b49e&ie=UTF8&qid=1544453783&sr=3&linkCode=li3&tag=ofliberty-20&linkId=c4db56a9eee00a65c37c09cbc32781f0&language=en_US" target="_blank"><img border="0" class="img-30" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LWOM0GX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=ofliberty-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=ofliberty-20&language=en_US&l=li3&o=1&a=B01LWOM0GX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ::: tip
-After purchasing your aluminum grinder, grind a few crubbled pieces of paper. This knocks off any loose metal shavings that could have clung on during the machining process.
+After purchasing your aluminum grinder, grind a few crumbled pieces of paper. This knocks-off any loose metal shavings that could have clung on during the machining process.
 :::
 
 ### Stash Box 
@@ -57,4 +57,4 @@ Some specialty vaporizers provide a higher quality experience but require a spec
 You will occasionally need to clean your tools. Most vaporizers will include instructions and  [pipe cleaners](https://amzn.to/2QGw5iV) as well as other specialized tools with your initial purchase. Glassware can be cleaned with with pipe cleaners and an alchol solution. 
 
 ### Grinder's Keif Catcher
-After several to many uses of the grinder, keif will have built up in the pollen catcher to either be used or stored. Storage can be done with either a small container or the keif can be pressed into hash with a [pollen press](https://amzn.to/2EdNzMY).
+After several uses of the grinder, keif will have built up in the pollen catcher to either be used or stored. Storage can be done with either a small container or the keif can be pressed into hash with a [pollen press](https://amzn.to/2EdNzMY).

@@ -15,7 +15,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 
 ## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.3.6"/>
 
-This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the undlying tech has reached a stable 1.x.x stable release.
+This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the underlying tech has reached a stable 1.x.x stable release.
 
 ### Supported Systems
 *Progressive web app support is still being implemented by Apple. Some features could be disabled until Apple fully implements the web standard.*
@@ -41,7 +41,7 @@ This project is built upon software that is currently in the alpha stage of deve
 
 You may follow, watch, or fork this project's [repository](https://github.com/OfLiberty/pacannabis.guide) and report any issues through [our issue tracker](https://github.com/OfLiberty/pacannabis.guide/issues). Prior to submitting issues, please consult with the repository's `README.md` or our [How to Contribute](/guide/#how-to-contribute) section of the guide.
 
-Alternatively, if you have an interest in contributing to this project please fill out the form below. By filling out the form below you will be joining ofLiberty's newsletter to coorindate contributions.
+Alternatively, if you have an interest in contributing to this project please fill out the form below. By filling out the form below you will be joining ofLiberty's newsletter to coordinate contributions.
 
 
 <div id="mc_embed_signup">

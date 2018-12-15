@@ -8,7 +8,7 @@ The Guide is designed to meet modern web standards, be lightweight, and be easil
 
 ## How To Use This Guide
 
-The guide serves as a respository of cannabis information in Pennsylvania. Here are a few tricks to using the guide.
+The guide serves as a repository of cannabis information in Pennsylvania. Here are a few tricks to using the guide.
 
 ### Header Anchors
 Next to every major heading you will see a green [<i class="fas fa-bong"></i>](/guide/#how-to-use-this-guide) icon when overing over it. Clicking it adds the header's anchor to the url. Now you may easily link to that specific content in discussions outside this website.

@@ -40,11 +40,11 @@ In order to be eligible for the PA Medical Marijuana program you must have a cer
 - Terminal illness
 
 
-## Practioners 
+## Practitioners 
 
 In addition to having a diagnosis of a [Qualifying Medical Conditions](/guide/getting-certified.html#qualifying-medical-conditions) you will need to see a practitioner who is licensed to prescribe medical cannabis.
 
-You can [use our tool](/tools/find-practitioners.html) to find a practitioner or you can find the most up-to-date practioner list through your account at the [Department of Health's Pennsylvania Medical Marijuana Program website](https://padohmmp.custhelp.com/app/login).
+You can [use our tool](/tools/find-practitioners.html) to find a practitioner or you can find the most up-to-date practitioner list through your account at the [Department of Health's Pennsylvania Medical Marijuana Program website](https://padohmmp.custhelp.com/app/login).
 
 <Practitioners />
 
