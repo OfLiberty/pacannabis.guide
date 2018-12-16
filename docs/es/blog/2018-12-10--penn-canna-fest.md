@@ -1,6 +1,6 @@
 ---
-title: Pennsylvania Cannabis Festival 2019
-description: Yearly cannabis event in PA featuring food, activities, music, and more.
+title: Festival de Cannabis de Pennsylvania 2019
+description: Evento anual de cannabis en Pensilvania con comida, actividades, música y más.
 permalink: /blog/2018/12/10/pennsylvania-cannabis-festival/
 date: 2018-12-10
 sites:
@@ -11,7 +11,7 @@ tags:
 ---
 <Ads />
 
-# Pennsylvania Cannabis Festival 2019
+# Festival de Cannabis de Pennsylvania 2019
 
 [Pennsylvania Cannabis Festival](http://penncannafest.com/) announced 2019s event. On April 20<sup>th</sup>, Scranton will be hosting the event in its Nay Aug Park.
 

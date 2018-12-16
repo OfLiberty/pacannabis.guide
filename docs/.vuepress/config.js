@@ -1,9 +1,7 @@
 module.exports = {
-  title: 'PA Cannabis Guide',
-  description: 'Handbook guiding PA patients through cannabis products, services, and news',
   head: [
     ['meta', { property: 'og:title', content: 'PA Cannabis Guide'}],
-    ['meta', { property: 'og:description', content: 'Handbook guiding PA patients through cannabis products, services, and news'}],
+    ['meta', { property: 'og:description', content: 'Handbook guiding PA patients through cannabis products, services, and news.'}],
     ['meta', { property: 'og:image', content: 'https://pacannabis.guide/images/open-graph.png'}],
     ['link', { rel: 'shortcut icon', href: `/favicons/favicon.ico` }],
     ['link', { rel: 'icon', type:"image/png", sizes:"16x16", href: `/favicons/favicon-16x16.png` }],
@@ -26,40 +24,77 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     // displayAllHeaders: true,
-    nav: [
-      { text: 'Guide', link: '/guide/' },
-      // {
-      //   text: 'Products',
-      //   items: [
-      //     { text: 'Find a Practitioner', link: '/tools/find-practitioners' },
-      //     { text: 'Find a Dispensary', link: '/tools/find-dispensaries' }
-      //   ]
-      // },
-      // { text: 'Resources', link: '/resources/' },
-      { text: 'Blog', link: '/blog/' },
-    ],
-    lastUpdated: 'Last Updated',
-    sidebar: {
-      '/guide/': [
-        '',   
-        'getting-certified',
-        'dispensaries/',
-        'cannabis',
-        'tools',
-      ],
-      
-      '/blog/': [
-        '',    
-        'faqs',
-      ],
-    },
     docsRepo: 'OfLiberty/pacannabis.guide',
     docsDir: 'docs',
     docsBranch: 'master',
     editLinks: true,
-    editLinkText: 'Help us improve this page!',
+    locales: {
+      '/': {
+        label: 'English',
+        selectText: 'Language',
+        editLinkText: 'Help us improve this page!',
+        lastUpdated: 'Last Updated',
+        nav: [
+          { text: 'Guide', link: '/guide/' },
+          { text: 'Blog', link: '/blog/' },
+        ],
+        sidebar: {
+          '/guide/': [
+            '',   
+            'getting-certified',
+            'dispensaries/',
+            'cannabis',
+            'tools',
+          ],
+          
+          '/blog/': [
+            '',    
+            'faqs',
+          ],
+        },
+      },
+      '/es/': {
+        label: 'Español',
+        selectText: 'Idioma',
+        editLinkText: '¡Ayúdanos a mejorar esta página!',
+        lastUpdated: '上次更新',
+        nav: [
+          { text: 'Guía', link: '/es/guide/' },
+          { text: 'Blog', link: '/es/blog/' },
+        ],
+        sidebar: {
+          '/es/guide/': [
+            '',   
+            'getting-certified',
+            'dispensaries/',
+            'cannabis',
+            'tools',
+          ],
+          
+          '/es/blog/': [
+            '',    
+            'faqs',
+          ],
+        },
+      }
+    }
+  },
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/': {
+      lang: 'en-US', // this will be set as the lang attribute on <html>
+      title: 'PA Cannabis Guide',
+      description: 'Handbook guiding PA patients through cannabis products, services, and news.'
+    },
+    '/es/': {
+      lang: 'es-US',
+      title: 'Guía PA Cannabis',
+      description: 'Manual que guía a los pacientes con PA a través de productos de cannabis, servicios y noticias.'
+    }
   },
   plugins: [
+    ['@vuepress/i18n-ui'],
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: true

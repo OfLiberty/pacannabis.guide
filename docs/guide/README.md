@@ -28,7 +28,7 @@ Most contributions are done through the [Github repository](https://github.com/O
 ### Edit existing pages
 In order to contribute content you will need a [Github account](https://github.com/).
 
-Navigate to [our repository](https://github.com/OfLiberty/pacannabis.guide). Either <i class="fas fa-eye"></i> watch or <i class="fas fa-star"></i> star or both to keep up to date with changes.
+Navigate to [our repository](https://github.com/OfLiberty/pacannabis.guide). Either watch <i class="fas fa-eye"></i> or star <i class="fas fa-star"></i> or both to keep up to date with changes.
 
 While browsing the guide, click "Help us improve this page!" link at the bottom of the page. You'll be brought to a page that is [markdown editable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
