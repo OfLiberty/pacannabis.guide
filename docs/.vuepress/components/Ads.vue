@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="pmsg">
         <div v-if="this.ads">
             <div v-if="this.displayAd == 0">
                 <a href="https://pacannabis.guide/entireweb.html" target="_blank"><img class="no-spy" src="http://affiliate.entireweb.com/accounts/default1/bz06nf/c124b148.gif" alt="Entireweb SEO Service" title="Entireweb SEO Service" width="468" height="60" /></a><img class="no-spy" style="border:0" src="http://affiliate.entireweb.com/scripts/iz06nf?a=ofLiberty&amp;b=c124b148" width="1" height="1" alt="" />
@@ -18,7 +18,10 @@
             </div>
         </div>
         <div v-if="!this.ads">
-            <small><em>
+            <small v-if="this.isSpanish"><em>
+                Este es un proyecto de <a href="https://ofliberty.org/" target="_blank">ofLiberty</a> y se le ofrece gratis. <a href="https://www.patreon.com/ofLiberty" target="_blank">Done hoy para permitirnos</a> continuar brindando una experiencia sin publicidad.
+            </em></small>
+            <small v-if="!this.isSpanish"><em>
             This is a project from <a href="https://ofliberty.org/" target="_blank">ofLiberty</a> and is being brought to you ad free. <a href="https://www.patreon.com/ofLiberty" target="_blank">Please donate today</a> to allow us to continue to provide an ad free experience.
             </em></small>
         </div>
@@ -37,12 +40,20 @@ export default {
     computed:{
         displayAd(){
             return Math.floor(Math.random() * Math.floor(5));
-        }
+        },
+        isSpanish(){
+            if(this.$page.path.startsWith("/es/")){
+                return true;
+            }else{
+                return false;
+            }
+        },
     }
 }
 </script>
 <style>
-   .no-spy{
-       
-   }
+    #pmsg{
+        padding-bottom: 1.8em;
+    }
 </style>
+

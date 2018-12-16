@@ -3,7 +3,7 @@ title: Canabis
 permalink: /guide/cannabis/
 # sidebarDepth: 0
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Canabis
 

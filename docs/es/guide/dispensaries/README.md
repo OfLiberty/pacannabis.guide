@@ -5,7 +5,7 @@ permalink: /guide/dispensaries/
 # sidebar: auto
 
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Dispensarios
 Los dispensarios son farmacias especializadas en cannabis. En estos lugares se venden diversos productos que contienen cannabis, así como herramientas para facilitar su consumo.

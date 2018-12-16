@@ -12,10 +12,12 @@
         
         <i class="fas fa-grip-lines-vertical"></i>
 
-        <a href="/share/"><strong>Referal Program</strong></a>
-        <input class="email" placeholder="Enter Email for referral credit" v-model="email">
+        <div class="title">
+            <a  href="/share/"><strong>{{ this.titleText }}</strong></a>
+        </div>
+        <input class="email" :placeholder="this.placeholderText" v-model="email">
 
-        <button v-on:click="copy">Copy Referral Link <i class="fas fa-level-down-alt"></i></button>
+        <button v-on:click="copy">{{ this.copyText }} <i class="fas fa-level-down-alt"></i></button>
         <br>
         <textarea style="width:100%;font-size:50%;border:none;resize: none;" id="refDirectLink"  readonly>{{ refDirectLink }}</textarea> 
 
@@ -40,6 +42,27 @@ export default {
                 path = "/";
             }
             return path;
+        },
+        titleText(){
+            if(this.$page.path.startsWith("/es/")){
+                return "Programa de referencia";
+            }else{
+                return "Referal Program";
+            }
+        },
+        placeholderText(){
+            if(this.$page.path.startsWith("/es/")){
+                return "Ingrese el correo electrónico para el crédito de referencia";
+            }else{
+                return "Enter email for referral credit";
+            }
+        },
+        copyText(){
+            if(this.$page.path.startsWith("/es/")){
+                return "Copiar enlace de referencia";
+            }else{
+                return "Copy Referral Link";
+            }
         },
         refDirectLink(){
         
@@ -84,12 +107,32 @@ export default {
     #share{
         padding-top: 1.8em;
         padding-bottom: 1.8em;
+        color: #2c3e50;
     }
     #share > label{
        font-size: 80%;
     }
-
+    #share > textarea{
+        color: #2c3e50;
+        text-align: right;
+    }
    #share > input.email{
        width:50%;
+       float: right;
    }
+   #share > .title{
+       text-align: right;
+       display: block;
+       width: 50%;
+       float: right;
+       padding-bottom: 2px;
+       margin-bottom: 2px;
+       border-bottom:solid 2px #eaecef;
+   }
+    #share > button{
+        padding: .4em;
+        background: #eaecef;
+        border: none;
+        float: right;
+    }
 </style>

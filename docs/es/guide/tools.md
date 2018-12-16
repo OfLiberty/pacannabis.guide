@@ -3,7 +3,7 @@ title: Herramientas
 permalink: /guide/tools/
 # sidebarDepth: 0
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Herramientas
 

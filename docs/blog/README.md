@@ -26,3 +26,5 @@ News, events, and miscellaneous info relevant to this guide and the cannabis com
 
 
 
+<Referral />
+<Ads />

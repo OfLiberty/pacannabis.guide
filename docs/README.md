@@ -47,6 +47,8 @@ This project is built upon software that is currently in the alpha stage of deve
 
 You may follow, watch, or fork this project's [repository](https://github.com/OfLiberty/pacannabis.guide) and report any issues through [our issue tracker](https://github.com/OfLiberty/pacannabis.guide/issues). Prior to submitting issues, please consult with the repository's `README.md` or our [How to Contribute](/guide/#how-to-contribute) section of the guide.
 
+We have also just launched a [referral program](/share/) so we can give back to those who help share us as a resource.
+
 Alternatively, if you have an interest in contributing to this project please fill out the form below. By filling out the form below you will be joining ofLiberty's newsletter to coordinate contributions.
 
 

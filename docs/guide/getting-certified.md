@@ -3,7 +3,7 @@ title: Getting Certified
 permalink: /guide/getting-certified/
 # sidebarDepth: 0
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Getting Certified
 

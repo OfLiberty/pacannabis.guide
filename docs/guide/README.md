@@ -26,6 +26,8 @@ The PA Cannabis Guide is a progressive web application meaning it can likely be 
 
 Most contributions are done through the [Github repository](https://github.com/OfLiberty/pacannabis.guide). Follow [our progress on the projects](https://github.com/OfLiberty/pacannabis.guide/projects) page.
 
+We have also just launched a [referral program](/share/) so we can give back to those who help share us as a resource.
+
 ### Edit existing pages
 In order to contribute content you will need a [Github account](https://github.com/).
 

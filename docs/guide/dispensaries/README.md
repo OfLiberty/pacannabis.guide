@@ -5,7 +5,7 @@ permalink: /guide/dispensaries/
 # sidebar: auto
 
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Dispensaries
 

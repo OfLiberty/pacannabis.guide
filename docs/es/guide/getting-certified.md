@@ -3,7 +3,7 @@ title: Obtener la certificación
 permalink: /guide/getting-certified/
 # sidebarDepth: 0
 ---
-<Ads />
+<!-- <Ads /> -->
 
 # Obtener la certificación
 

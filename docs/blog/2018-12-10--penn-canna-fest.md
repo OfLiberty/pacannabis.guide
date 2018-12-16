@@ -10,7 +10,6 @@ tags:
 - event
 ---
 <Ads />
-<Referral />
 
 # Pennsylvania Cannabis Festival 2019
 
@@ -23,3 +22,6 @@ The event will feature live music, art, speakers, over 250+ vendors, hiking trai
 The [PA Cannabis Guide](/) is sending contributors to review and report on the event when the time comes. [Learn more about contributing](/guide/#how-to-contribute).
 
 For more information follow the festival's [facebook page](https://www.facebook.com/PennCannaFest/) or [instagram](https://www.instagram.com/penncannafest/).
+
+<Referral />
+<Ads />

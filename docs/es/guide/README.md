@@ -15,6 +15,7 @@ La Guía está diseñada para cumplir con los estándares web modernos, ser livi
 
 La guía sirve como un depósito de información sobre el cannabis en Pennsylvania. Aquí hay algunos trucos para usar la guía.
 
+También acabamos de lanzar un [programa de referencias](/share/) para que podamos ayudar a quienes nos comparten como recurso.
 
 ### Anclas de cabecera
 Al lado de cada encabezado principal, verá un ícono verde [<i class="fas fa-bong"></i>](/es/guide/#como-usar-esta-guia) cuando se sobrepase. Al hacer clic en él se agrega el ancla del encabezado a la URL. Ahora puede enlazar fácilmente a ese contenido específico en discusiones fuera de este sitio web.
