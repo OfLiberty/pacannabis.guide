@@ -2,6 +2,8 @@
 title: Frequently Asked Questions
 permalink: /faqs/
 ---
+<Ads />
+<Referral />
 
 # Frequently Asked Questions
 An updated list of blog posts answering your questions regarding cannabis, this guide, and anything inbetween. 

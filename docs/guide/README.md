@@ -2,6 +2,7 @@
 title: Introduction
 permalink: /guide/
 ---
+
 # Introduction
 
 The Guide is designed to meet modern web standards, be lightweight, and be easily accessible. Anyone can suggest improvements or [contribute to its success through Github](https://github.com/OfLiberty/pacannabis.guide).
@@ -66,3 +67,6 @@ Issue Type:
 ## Supporting the Guide
 
 Supporting [ofLiberty on Patreon](https://www.patreon.com/ofLiberty) is the most direct way of keeping this project afloat. 
+
+<Referral />
+<Ads />

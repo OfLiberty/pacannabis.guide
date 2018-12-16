@@ -59,4 +59,5 @@ Once you have been certified by an approved physician, the next step is to retur
 
 The cost of a medical marijuana ID card is $50. Patients who participate in assistance programs including Medicaid, PACE/PACENET, CHIP, SNAP, and WIC may be eligible for fee reductions.
 
+<Referral />
 <Ads />

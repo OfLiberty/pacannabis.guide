@@ -61,3 +61,6 @@ Issue Type:
 
 ## Apoyando la guía
 Apoyar [ofLiberty en Patreon](https://www.patreon.com/ofLiberty) es la forma más directa de mantener este proyecto a flote.
+
+<Referral />
+<Ads />

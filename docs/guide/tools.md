@@ -58,3 +58,6 @@ You will occasionally need to clean your tools. Most vaporizers will include ins
 
 ### Grinder's Keif Catcher
 After several uses of the grinder, keif will have built up in the pollen catcher to either be used or stored. Storage can be done with either a small container or the keif can be pressed into hash with a [pollen press](https://amzn.to/2EdNzMY).
+
+<Referral />
+<Ads />

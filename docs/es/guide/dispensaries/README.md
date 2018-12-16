@@ -37,4 +37,6 @@ Todos los dispensarios de AP se enumeran a continuación.
 - [TerraVida Holistic Centers](/es/guide/dispensaries/terravida-holistic-centers/)
 - [The Healing Center, LLC](/es/guide/dispensaries/the-healing-center/)
 
+
+<Referral />
 <Ads />

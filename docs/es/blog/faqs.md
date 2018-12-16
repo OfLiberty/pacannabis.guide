@@ -13,3 +13,5 @@ El proceso para instalar un PWA difiere entre los sistemas Android y iOS.
 - [Android <i class="fab fa-android"></i>](https://www.techrepublic.com/article/how-to-use-progressive-web-apps-on-android/) 
 - [iOS <i class="fab fa-apple"></i>](/es/blog/2018/11/25/download-pwa-mobile/)
 
+<Referral />
+<Ads />

@@ -59,3 +59,6 @@ Ocasionalmente necesitarás limpiar tus herramientas. La mayoría de los vaporiz
 
 ### Grinder Kief Catcher
 Después de varios usos del molinillo, keif se habrá acumulado en el colector de polen para ser usado o almacenado. El almacenamiento se puede hacer con un recipiente pequeño o el keif se puede presionar para hacer hash con una [prensa de polen](https://amzn.to/2EdNzMY).
+
+<Referral />
+<Ads />

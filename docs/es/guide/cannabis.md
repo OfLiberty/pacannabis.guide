@@ -56,4 +56,5 @@ La vaporización utiliza concentrados o material de flor. Los cartuchos son la f
 ### Oral
 El cannabis se puede consumir por vía oral de varias maneras, cocinándolo en los alimentos, a través de un aplicador, en forma de pastillas y en gotas y aerosoles sublinguales. Estos métodos suelen tardar más en activarse (15-30 + minutos), pero duran más (2-6 + horas).
 
-
+<Referral />
+<Ads />

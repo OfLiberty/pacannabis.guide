@@ -38,4 +38,5 @@ All PA dispensaries are listed below.
 - [TerraVida Holistic Centers](/guide/dispensaries/terravida-holistic-centers/)
 - [The Healing Center, LLC](/guide/dispensaries/the-healing-center/)
 
+<Referral />
 <Ads />

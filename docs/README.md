@@ -88,3 +88,5 @@ Alternatively, if you have an interest in contributing to this project please fi
 </form>
 </div>
 
+<Referral />
+<Ads />

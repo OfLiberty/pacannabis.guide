@@ -36,3 +36,5 @@ Open up the app and confirm it is working. You will now have access to our infor
 
 ![step 5](/images/install-pwa--5.png "PWA Setup Step 5")
 
+<Referral />
+<Ads />

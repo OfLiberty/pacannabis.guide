@@ -3,7 +3,7 @@
         <div>
             <div class="filter clearfix">
                 <label for="county">County</label>
-                <select name="county"v-model="selectedCounty">
+                <select name="county" v-model="selectedCounty">
                     <option>Any</option>
                     <option v-for="county in countiesList" v-bind:value="county">{{ county }}</option>
                 </select>

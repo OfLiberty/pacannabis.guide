@@ -25,4 +25,5 @@ Noticias, eventos e información variada relacionada con esta guía y la comunid
 [<i class="fab fa-github"></i> <small>Github</small>](https://github.com/ndkline)
 
 
-
+<Referral />
+<Ads />

@@ -58,3 +58,5 @@ Vaporization utilizes concentrates or flower material. Cartridges are the easies
 Cannabis can be consumed orally in several ways, cooking it into food, through an applicator, pill forms, and sublingual drops and sprays. These methods typically take longer for the effects to kick in (15-30+ minutes), but last longer (2-6+ hours). 
 
 
+<Referral />
+<Ads />

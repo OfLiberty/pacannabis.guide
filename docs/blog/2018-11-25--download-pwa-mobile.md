@@ -11,6 +11,7 @@ tags:
 - pwa
 ---
 <Ads />
+<Referral />
 
 # Downloading a Progressive Web App to Your Mobile (iOS) Device
 
