@@ -19,7 +19,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
 
-## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.1"/>
+## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.2"/>
 
 Este proyecto se basa en un software que actualmente se encuentra en la etapa alfa de desarrollo. La versión completa de este sitio web no se producirá oficialmente hasta que la tecnología subyacente haya alcanzado una versión estable de 1.x.x.
 
@@ -43,7 +43,7 @@ Este proyecto se basa en un software que actualmente se encuentra en la etapa al
 <!-- <i class="fa-3x fab fa-apple"></i> -->
 
 
-### Looking For Contributors
+### Buscando colaboradores
 
 Puede seguir, ver o bifurcar el [repositorio](https://github.com/OfLiberty/pacannabis.guide) de este proyecto e informar cualquier problema a través de [nuestro rastreador de problemas](https://github.com/OfLiberty/pacannabis.guide/issues). Antes de enviar los problemas, consulte con el archivo `README.md` del repositorio o nuestra sección [Cómo contribuir]((/guide/#how-to-contribute)) de la guía.
 
