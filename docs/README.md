@@ -19,7 +19,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
 
-## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.10"/>
+## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.14"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the underlying tech has reached a stable 1.x.x stable release.
 

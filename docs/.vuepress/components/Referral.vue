@@ -1,26 +1,41 @@
 <template>
     <div id="share">
-        <a :href="this.refFBLink " target="_blank">
-            <i class="fab fa-facebook-square"></i>
-        </a>
-        <a :href="this.refTWLink " target="_blank">
-            <i class="fab fa-twitter-square"></i>
-        </a>
-        <a :href="this.refRedditLink " target="_blank">
-            <i class="fab fa-reddit-square"></i>
-        </a>
-        
-        <i class="fas fa-grip-lines-vertical"></i>
-
-        <div class="title">
-            <a  href="/share/"><strong>{{ this.titleText }}</strong></a>
+        <div class="social">
+           <div class="ref-title">
+                <strong>{{ this.socialText }}</strong>
+            </div>
+            <div class="clearfix"></div>
+            <div class="mt-1">
+                <a :href="this.refFBLink " target="_blank">
+                    <i class="fab fa-3x fa-facebook-square"></i>
+                </a>
+                <a :href="this.refTWLink " target="_blank">
+                    <i class="fab fa-3x fa-twitter-square"></i>
+                </a>
+                <a :href="this.refRedditLink " target="_blank">
+                    <i class="fab fa-3x fa-reddit-square"></i>
+                </a>
+            </div>
         </div>
-        <input class="email" :placeholder="this.placeholderText" v-model="email">
+        
+        <div class="referral">
+                
+            <div class="ref-title text-right">
+                <strong>{{ this.titleText }}</strong>
+            </div>
+            <div class="clearfix"></div>
 
-        <button v-on:click="copy">{{ this.copyText }} <i class="fas fa-level-down-alt"></i></button>
-        <br>
-        <textarea style="width:100%;font-size:50%;border:none;resize: none;" id="refDirectLink"  readonly>{{ refDirectLink }}</textarea> 
+            <input class="email mb-2 mt-2" :placeholder="this.placeholderText" v-model="email">
 
+            <button class="mb-2" v-on:click="copy">{{ this.copyText }} <i class="fas fa-level-down-alt"></i></button>
+
+            <textarea class="mb-2" id="refDirectLink"  readonly>{{ refDirectLink }}</textarea> 
+
+            <div class="text-right mb-2">
+                <a  href="/share/"><small class="tiny"><em>{{ this.learnMoreText }}</em></small></a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
     </div>
 
 </template>
@@ -48,6 +63,20 @@ export default {
                 return "Programa de referencia";
             }else{
                 return "Referal Program";
+            }
+        },
+        socialText(){
+            if(this.$page.path.startsWith("/es/")){
+                return "Compartir en Social";
+            }else{
+                return "Share on Social";
+            }
+        },
+        learnMoreText(){
+            if(this.$page.path.startsWith("/es/")){
+                return "Obtenga más información sobre el programa de referencia.";
+            }else{
+                return "Learn more about the referral program.";
             }
         },
         placeholderText(){
@@ -104,32 +133,65 @@ export default {
 }
 </script>
 <style>
+    small.tiny{
+        font-size: 60%;
+    }
+    .mb-2{
+        margin-bottom:.7em;
+    }
+    .mt-2{
+        margin-top:.7em;
+    }
+    .mt-1{
+        margin-top:.3em;
+    }
     #share{
         padding-top: 1.8em;
         padding-bottom: 1.8em;
         color: #2c3e50;
     }
-    #share > label{
+    #share > .social{
+        width:49.5%;
+        float:left;
+    }
+    #share > .referral{
+        width:49.5%;
+        float:right;
+    }
+     @media screen and (max-width: 880px) {
+        #share > .social{
+            width:100%;
+            float:left;
+        }
+        #share > .referral{
+            width:100%;
+            float:right;
+        }
+    }
+    label{
        font-size: 80%;
     }
-    #share > textarea{
+    textarea{
         color: #2c3e50;
         text-align: right;
+        width:100%;font-size:50%;border:none;resize: none;
     }
-   #share > input.email{
-       width:50%;
+    input.email{
+       width:96%;
        float: right;
    }
-   #share > .title{
-       text-align: right;
+    .ref-title{
        display: block;
-       width: 50%;
+       width: 100%;
        float: right;
        padding-bottom: 2px;
        margin-bottom: 2px;
        border-bottom:solid 2px #eaecef;
    }
-    #share > button{
+   .text-right{
+       text-align: right;
+   }
+     button{
         padding: .4em;
         background: #eaecef;
         border: none;
