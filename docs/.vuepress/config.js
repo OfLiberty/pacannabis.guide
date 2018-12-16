@@ -14,7 +14,7 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/favicons/safari-pinned-tab.svg', color: '#1a7b00' }],
     ['meta', { name: 'msapplication-config', content: '/favicons/browserconfig.xml' }],
     ['meta', { name: 'msapplication-TileColor', content: '#1a7b00' }],
-    ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.5.0/css/all.css', integrity: 'sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU', crossorigin: 'anonymous' }],
+    ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css', integrity: 'sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP', crossorigin: 'anonymous' }],
     // ['link', { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',integrity:"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",  crossorigin: 'anonymous' }],
   ],
   themeConfig: {
@@ -57,7 +57,7 @@ module.exports = {
         label: 'Español',
         selectText: 'Idioma',
         editLinkText: '¡Ayúdanos a mejorar esta página!',
-        lastUpdated: '上次更新',
+        lastUpdated: 'Última actualización',
         nav: [
           { text: 'Guía', link: '/es/guide/' },
           { text: 'Blog', link: '/es/blog/' },
