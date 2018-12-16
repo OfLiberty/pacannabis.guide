@@ -176,7 +176,7 @@ export default {
         text-align: right;
         width:100%;font-size:50%;border:none;resize: none;
     }
-    input.email{
+    #share input.email{
        width:96%;
        float: right;
    }
