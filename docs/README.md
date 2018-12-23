@@ -19,10 +19,10 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
 
-## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.16"/>
+## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.20"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the underlying tech has reached a stable 1.x.x stable release.
-
+  
 ### Supported Systems
 *Progressive web app support is still being implemented by Apple. Some features could be disabled until Apple fully implements the web standard.*
 
@@ -47,8 +47,8 @@ This project is built upon software that is currently in the alpha stage of deve
 
 You may follow, watch, or fork this project's [repository](https://github.com/OfLiberty/pacannabis.guide) and report any issues through [our issue tracker](https://github.com/OfLiberty/pacannabis.guide/issues). Prior to submitting issues, please consult with the repository's `README.md` or our [How to Contribute](/guide/#how-to-contribute) section of the guide.
 
-We have also just launched a [referral program](/share/) so we can give back to those who help share us as a resource.
-
+We have also just launched a [referral program](/share/README.md) so we can give back to those who help share us as a resource. 
+  
 Alternatively, if you have an interest in contributing to this project please fill out the form below. By filling out the form below you will be joining ofLiberty's newsletter to coordinate contributions.
 
 

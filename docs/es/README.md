@@ -19,8 +19,8 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
 
-## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.16"/>
-
+## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.20"/>
+ 
 Este proyecto se basa en un software que actualmente se encuentra en la etapa alfa de desarrollo. La versión completa de este sitio web no se producirá oficialmente hasta que la tecnología subyacente haya alcanzado una versión estable de 1.x.x.
 
 ### Sistemas soportados
@@ -42,13 +42,13 @@ Este proyecto se basa en un software que actualmente se encuentra en la etapa al
 <i class="fa-3x fab fa-android"></i>
 <!-- <i class="fa-3x fab fa-apple"></i> -->
 
-
+ 
 ### Buscando colaboradores
 
-Puede seguir, ver o bifurcar el [repositorio](https://github.com/OfLiberty/pacannabis.guide) de este proyecto e informar cualquier problema a través de [nuestro rastreador de problemas](https://github.com/OfLiberty/pacannabis.guide/issues). Antes de enviar los problemas, consulte con el archivo `README.md` del repositorio o nuestra sección [Cómo contribuir]((/guide/#how-to-contribute)) de la guía.
+Puede seguir, ver o bifurcar el [repositorio](https://github.com/OfLiberty/pacannabis.guide) de este proyecto e informar cualquier problema a través de [nuestro rastreador de problemas](https://github.com/OfLiberty/pacannabis.guide/issues). Antes de enviar los problemas, consulte con el archivo `README.md` del repositorio o nuestra sección [Cómo contribuir](/es/guide/#como-contribuir) de la guía.
 
-También acabamos de lanzar un [programa de referencias](/share/) para que podamos ayudar a quienes nos comparten como recurso.
-
+También acabamos de lanzar un [programa de referencias](/es/share/) para que podamos ayudar a quienes nos comparten como recurso.
+ 
 Alternativamente, si tiene interés en contribuir a este proyecto, complete el formulario a continuación. Al completar el formulario a continuación, se unirá al boletín informativo deLiberty para coordinar las contribuciones.
 
 
