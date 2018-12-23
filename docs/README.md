@@ -19,7 +19,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
 
-## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.20"/>
+## Current Status <Badge text="alpha" type="warn"/> <Badge text="v0.4.21"/>
 
 This project is built upon software that is currently in the alpha stage of development. The full release of this website will not officially occur until the underlying tech has reached a stable 1.x.x stable release.
   
@@ -40,7 +40,7 @@ This project is built upon software that is currently in the alpha stage of deve
 
 #### Mobile OS PWA Support
 <i class="fa-3x fab fa-android"></i>
-<!-- <i class="fa-3x fab fa-apple"></i> -->
+<i class="fa-3x fab fa-apple"></i>
 
 
 ### Looking For Contributors
