@@ -15,6 +15,7 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 
 ## Los patrocinadores
 
+- [Meorator!](https://shop.meorator.com/)
 - [OfLiberty](https://www.patreon.com/ofLiberty)
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
