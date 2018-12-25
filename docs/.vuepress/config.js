@@ -62,6 +62,8 @@ module.exports = {
         nav: [
           { text: 'Guía', link: '/es/guide/' },
           { text: 'Blog', link: '/es/blog/' },
+          { text: 'Almacenar', link: 'https://shop.meorator.com/collections/pa-cannabis-guide'}
+
         ],
         sidebar: {
           '/es/guide/': [
