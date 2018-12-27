@@ -18,6 +18,8 @@ News, events, and miscellaneous info relevant to this guide and the cannabis com
 
 **Nick David** 
 <i class="fas fa-grip-lines-vertical"></i> 
+[<i class="fas fa-lightbulb"></i> <small>Minds</small>](https://www.minds.com/holistnick?referrer=holistnick)
+<i class="fas fa-grip-lines-vertical"></i> 
 [<i class="fab fa-instagram"></i> <small>Instagram</small>](https://www.instagram.com/holistnick/)
 <i class="fas fa-grip-lines-vertical"></i> 
 [<i class="fab fa-twitter"></i> <small>Twitter</small>](https://twitter.com/holistnick)

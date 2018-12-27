@@ -19,8 +19,19 @@ footer: MIT Licensed | Copyright © 2018-present ofLiberty
 - [OfLiberty](https://www.patreon.com/ofLiberty)
 - [Nick David's Holistic Development Agency](https://nickdavidsholisticdevelopmentagency.com/)
 
+## Swag
 
-## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.25"/>
+<a href="https://shop.meorator.com/collections/pa-cannabis-guide/products/short-sleeve-soft-t-shirt" target="_blank">
+	<img alt="PA Cannabis Guide t-shirt" src="/images/t-shirt.jpg" class="img-30">
+</a>
+<a href="https://shop.meorator.com/collections/pa-cannabis-guide/products/short-sleeve-soft-t-shirt-1" target="_blank">
+	<img alt="PA Cannabis Guide t-shirt" src="/images/t-shirt-6.jpg" class="img-30">
+</a>
+<a href="https://shop.meorator.com/collections/pa-cannabis-guide/products/short-sleeve-t-shirt" target="_blank">
+	<img alt="Cannabis Coders Club t-shirt" src="/images/t-shirt-cccp-front.jpg" class="img-30">
+</a>
+
+## Estado actual <Badge text="alfa" type="warn"/> <Badge text="v0.4.30"/>
  
 Este proyecto se basa en un software que actualmente se encuentra en la etapa alfa de desarrollo. La versión completa de este sitio web no se producirá oficialmente hasta que la tecnología subyacente haya alcanzado una versión estable de 1.x.x.
 
